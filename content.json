@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-19b",
+ "contentVersion": "2026-11-19c",
  "checkedDate": "2026-11-06",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
@@ -1080,52 +1080,52 @@
      "title": "Conducting the check",
      "items": [
       {
-       "text": "AP = autopilot. AT = autothrottle (autothrust). FD = flight director. PF = pilot flying. Each line below is quoted exactly from the authority's manual; the heading in capitals says which part of the check it applies to.",
+       "text": "AP = autopilot. AT = autothrottle (autothrust). FD = flight director. PF = pilot flying. Each line below is an unofficial English translation of the authority’s Czech text (the authority publishes only in Czech); it is not a quotation. Each line is translated exactly from the authority's manual; the heading in capitals says which part of the check it applies to.",
        "ref": "Abbreviations (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ REPEAT, RETRAIN, RETEST AND SAME EXAMINER (this authority): each line is quoted exactly from the source named under it. The EASA rules that apply in every authority are on the last page (EASA rules for every NAA).",
+       "text": "▸ REPEAT, RETRAIN, RETEST AND SAME EXAMINER (this authority): each line is an unofficial English translation of the Czech text of the source named under it (not a quotation). The EASA rules that apply in every authority are on the last page (EASA rules for every NAA).",
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (Czech Republic): Pokud žadatel neuspěje ve více než 5 položkách, výsledek zkoušky je „FAIL“ a musí opakovat celou zkoušku.",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 11.4.3 (quoted passages, “…” = cut); retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (Czech Republic) – English translation: If the applicant fails in more than 5 items, the result of the test is “FAIL” and he must repeat the whole test.",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 11.4.3; the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (Czech Republic): Pokud žadatel neuspěje ve druhém pokusu v jakékoli jedné položce …",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 11.4.5 (quoted passages, “…” = cut); retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (Czech Republic) – English translation: If the applicant fails any one item in the second attempt …",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 11.4.5; the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (Czech Republic): Examinátor se rozhodne, jestli v neúspěšné položce dá žadateli možnost druhého pokusu.",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 14.2 (quoted passages, “…” = cut); retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (Czech Republic) – English translation: The examiner decides whether to give the applicant a second attempt at the failed item.",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 14.2; the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ SAME EXAMINER (Czech Republic): … opakovanou zkoušku/přezkoušení by měl provádět jiný examinátor, než při první neúspěšné zkoušce/přezkoušení.",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 15.1 (quoted passages, “…” = cut); retrieved 19 Nov 2026"
+       "text": "▸ SAME EXAMINER (Czech Republic) – English translation: … a repeat test/re-examination should be conducted by a different examiner than at the first unsuccessful test/re-examination.",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 15.1; the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ SAME EXAMINER (Czech Republic): Examinátor, který provádí opakovanou zkoušku, musí před zkouškou obdržet protokol z neúspěšné zkoušky …",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 15.2 (quoted passages, “…” = cut); retrieved 19 Nov 2026"
+       "text": "▸ SAME EXAMINER (Czech Republic) – English translation: The examiner who conducts the repeat test must receive the report of the unsuccessful test before the test …",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016), 15.2; the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RAW-DATA ILS (3.8.3.1): Item 3.9.3.1: s použitím manuálně ovládaného tahu motorů na všech typech letadel.",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016 (original Czech), P1.9 a); retrieved 17 Nov 2026"
+       "text": "▸ RAW-DATA ILS (3.8.3.1) – English translation: Item 3.9.3.1: … using manually controlled engine thrust on all aeroplane types.",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016, P1.9 a); the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4): Item 3.9.3.4: Žadatel musí dokončit bezpečné ILS přiblížení manuálně bez autopilota do DA/DH.",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016 (original Czech), P1.10 a); retrieved 17 Nov 2026"
+       "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4) – English translation: Item 3.9.3.4: The applicant must complete a safe ILS approach manually, without the autopilot, to DA/DH.",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016, P1.10 a); the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4): Item 3.9.3.4: Autopilot by měl být odpojen před nalétnutím LOC a před plnou konfigurací na přiblížení a přistání.",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016 (original Czech), P1.10 a); retrieved 17 Nov 2026"
+       "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4) – English translation: Item 3.9.3.4: The autopilot should be disconnected before intercepting the LOC and before full approach and landing configuration.",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016, P1.10 a); the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4): Item 4.3: Asymetrický postup nezdařeného přiblížení musí být letěn manuálně až do dokončení tohoto postupu.",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016 (original Czech), P1.12 c); retrieved 17 Nov 2026"
+       "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4) – English translation: Item 4.3: The asymmetric missed approach procedure must be flown manually until that procedure is completed.",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016, P1.12 c); the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ AUTOMATICS (P1.17 a): Automatics: je použití manuálního tahu dle uvážení examinátora.",
-       "ref": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016 (original Czech), P1.17 a); retrieved 17 Nov 2026"
+       "text": "▸ AUTOMATICS (P1.17 a) – English translation: Automatics: the use of manual thrust is at the examiner’s discretion.",
+       "ref": "Unofficial English translation of ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1, 01.11.2016, P1.17 a); the authority’s text is in Czech. Not a quotation; retrieved 19 Nov 2026"
       }
      ]
     },
@@ -1655,84 +1655,84 @@
      "title": "Conducting the check",
      "items": [
       {
-       "text": "AP = autopilot. AT = autothrottle (autothrust). FD = flight director. PF = pilot flying. Each line below is quoted exactly from the authority's manual; the heading in capitals says which part of the check it applies to.",
+       "text": "AP = autopilot. AT = autothrottle (autothrust). FD = flight director. PF = pilot flying. Each line below is an unofficial English translation of the authority’s French text (the authority publishes only in French); it is not a quotation. Each line is translated exactly from the authority's manual; the heading in capitals says which part of the check it applies to.",
        "ref": "Abbreviations (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ REPEAT, RETRAIN, RETEST AND SAME EXAMINER (this authority): each line is quoted exactly from the source named under it. The EASA rules that apply in every authority are on the last page (EASA rules for every NAA).",
+       "text": "▸ REPEAT, RETRAIN, RETEST AND SAME EXAMINER (this authority): each line is an unofficial English translation of the French text of the source named under it (not a quotation). The EASA rules that apply in every authority are on the last page (EASA rules for every NAA).",
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (France): En cas d’échec à concurrence de cinq rubriques maximum (« M » ou non « M », comprise dans le scénario ou non), sous réserve qu’il ne décide pas d’un ajournement en raison d’un niveau général insatisfaisant, l’examinateur prononcera un PARTIAL PASS. Les rubriques constatées en échec doivent être enregistrées FAIL à la première tentative.",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.2; retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (France) – English translation: If up to five items fail (“M” or not “M”, whether or not included in the scenario), provided the examiner does not decide on an adjournment because of an unsatisfactory general level, the examiner will pronounce a PARTIAL PASS. Items found failed must be recorded FAIL at the first attempt.",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.2; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (France): En cas d’échec à plus de cinq rubriques (« M » ou non « M », comprise dans le scénario ou non), l’examinateur ajournera le candidat qui devra repasser la totalité du contrôle (ajournement à la 1ère tentative).",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.3; retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (France) – English translation: If more than five items fail (“M” or not “M”, whether or not included in the scenario), the examiner will adjourn the candidate, who must retake the entire check (adjournment at the 1st attempt).",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.3; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (France): Le Partial Pass permet, sous conditions (échec à 5 rubriques ou moins et justifiant d’un niveau général de compétence satisfaisant, APPENDIX 9 B.2.) à l’examinateur d’autoriser l’organisation d’un contrôle complémentaire adapté. Celle-ci sera la 2ème tentative au sens du paragraphe A.2 de l’appendice 9 à la Part- FCL. Au cours de cette séance additionnelle, le candidat sera contrôlé sur un scénario court incluant à minima les rubriques en échec à la première tentative.",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5 Partial Pass; retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (France) – English translation: The Partial Pass allows the examiner, under conditions (failure of 5 items or fewer and demonstrating a satisfactory general level of competence, APPENDIX 9 B.2.), to authorise a suitable supplementary check. This will be the 2nd attempt within the meaning of paragraph A.2 of Appendix 9 to Part-FCL. During this additional session, the candidate will be checked on a short scenario including, as a minimum, the items failed at the first attempt.",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (France): Le Partial Pass doit être suivi par l’organisation d’un contrôle complémentaire court et distinct (tentative N°2) du contrôle qu’il complète (tentative N°1). Ce n’est en aucun cas une simple réalisation de manière isolée des exercices échoués en première tentative.",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5 Partial Pass; retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (France) – English translation: The Partial Pass must be followed by a short and separate supplementary check (attempt No. 2) to the check it completes (attempt No. 1). It is in no case a simple isolated performance of the exercises failed at the first attempt.",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (France): En cas d’échec à une rubrique quelconque du contrôle complémentaire, y compris les rubriques qu’il avait réussies lors de la première tentative, le candidat sera ajourné et devra repasser à nouveau la totalité du contrôle.",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5 Partial Pass; retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (France) – English translation: In case of failure of any item of the supplementary check, including items passed at the first attempt, the candidate will be adjourned and must retake the entire check.",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ SAME EXAMINER (France): Il est préférable (mais non obligatoire) que ce contrôle complémentaire soit conduit par le même examinateur. Si tel est le cas, le TRE/SFE pourra utiliser la même démarche du Portail PN et renseigner la deuxième tentative. Si le TRE/SFE conduisant le contrôle de la deuxième tentative est différent du premier TRE/SFE, il créera une nouvelle démarche dans le portail PN.",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5 Partial Pass; retrieved 19 Nov 2026"
+       "text": "▸ SAME EXAMINER (France) – English translation: It is preferable (but not mandatory) that this supplementary check be conducted by the same examiner. If so, the TRE/SFE may use the same PN Portal procedure and enter the second attempt. If the TRE/SFE conducting the second attempt is different from the first TRE/SFE, he/she will create a new procedure in the PN portal.",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (France): Le contrôle complémentaire doit toujours être précédé d’un acte d’instruction (le Partial Pass s’adresse par nature à un candidat ayant besoin d’un complément de formation pour solder un problème clairement identifié). Cet acte de formation doit être adapté à la nature et à l’étendue du problème à régler. Dans certains cas simples, il peut se résumer à un débriefing détaillé (délivré directement par l’examinateur ou ultérieurement par un instructeur).",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5 Partial Pass; retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (France) – English translation: The supplementary check must always be preceded by an act of instruction (the Partial Pass is by nature aimed at a candidate needing additional training to resolve a clearly identified problem). This training must be suited to the nature and extent of the problem. In some simple cases, it may be limited to a detailed debriefing (delivered directly by the examiner or later by an instructor).",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (France): La date de validité du TR est une butée pour le traitement d’un Partial Pass. Si la deuxième tentative ne peut être organisée avant cette date, le candidat se retrouve de facto en situation de renouvellement (et doit donc s’adresser à un ATO pour l’organisation de ce renouvellement).",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5.2; retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (France) – English translation: The TR validity date is a limit for handling a Partial Pass. If the second attempt cannot be organised before that date, the candidate is de facto in a renewal situation (and must therefore contact an ATO to organise that renewal).",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.5.2; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (France): En cas d’ajournement à la première ou deuxième tentative : Toute nouvelle présentation doit être précédée par la réalisation d’un programme d’instruction (défini par le RP/RDFE après prise en compte de la proposition et des remarques de l’examinateur).",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.6 Ajournement (FAIL); retrieved 19 Nov 2026"
+       "text": "▸ RETEST AND RETRAINING (France) – English translation: In case of adjournment at the first or second attempt: any new presentation must be preceded by completion of a training programme (defined by the RP/RDFE after taking into account the examiner’s proposal and remarks).",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.6; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ SAME EXAMINER (France): Le même examinateur ne devrait pas contrôler une seconde fois un candidat sans l’accord formel de celui-ci (AMC2 FCL.1015(m)).",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.6 Ajournement (FAIL); retrieved 19 Nov 2026"
+       "text": "▸ SAME EXAMINER (France) – English translation: The same examiner should not check a candidate a second time without the candidate’s formal agreement (AMC2 FCL.1015(m)).",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025), 5.4.10.6; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ MANUAL FLIGHT (3.1): FCL 3.1: Vol manuel (sans AP/AT et dans les différentes lois de commandes de vol).",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025 (original French), FCL 3.1; retrieved 17 Nov 2026"
+       "text": "▸ MANUAL FLIGHT (3.1) – English translation: FCL 3.1: Manual flight (without AP/AT and in the various flight control laws).",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, FCL 3.1; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RAW-DATA ILS (3.8.3.1): FCL 3.8.3.1: Le passage en pilotage manuel sans FD doit intervenir avant la phase d’interception des axes de l’approche",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025 (original French), FCL 3.8.3.1; retrieved 17 Nov 2026"
+       "text": "▸ RAW-DATA ILS (3.8.3.1) – English translation: FCL 3.8.3.1: Transition to manual flight without FD must take place before the phase of intercepting the approach axes",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, FCL 3.8.3.1; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ RAW-DATA ILS (3.8.3.1): FCL 3.8.3.1: La déconnection du pilote automatique et du directeur de vol doit intervenir avant le début d’interception de l’axe",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025 (original French), Annexe 3 §7.3; retrieved 17 Nov 2026"
+       "text": "▸ RAW-DATA ILS (3.8.3.1) – English translation: FCL 3.8.3.1: Disconnection of the autopilot and the flight director must take place before the start of interception of the axis",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, Annexe 3 §7.3; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4): FCL 3.8.3.4: L’AP doit donc être rendu indisponible avant la panne du moteur (le FD reste disponible).",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025 (original French), FCL 3.8.3.4; retrieved 17 Nov 2026"
+       "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4) – English translation: FCL 3.8.3.4: The AP must therefore be made unavailable before the engine failure (the FD remains available).",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, FCL 3.8.3.4; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4): FCL 3.8.3.4: Dans tous les cas, le pilote automatique doit donc être rendu indisponible avant la panne du moteur,",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025 (original French), Annexe 3 §7.3; retrieved 17 Nov 2026"
+       "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4) – English translation: FCL 3.8.3.4: In all cases, the autopilot must therefore be made unavailable before the engine failure,",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, Annexe 3 §7.3; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ 2D APPROACH (3.8.4): FCL 3.8.4: Il n’y a pas d’exigence particulière concernant l’indisponibilité des automatismes qui doivent être utilisés",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025 (original French), Annexe 3 §7.3; retrieved 17 Nov 2026"
+       "text": "▸ 2D APPROACH (3.8.4) – English translation: FCL 3.8.4: There is no particular requirement concerning the unavailability of the automatics, which must be used",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, Annexe 3 §7.3; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4): FCL 4.4: la remise de gaz avec la panne du moteur critique doit être exécutée en pilotage manuel",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025 (original French), FCL 4.4; retrieved 17 Nov 2026"
+       "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4) – English translation: FCL 4.4: the go-around with failure of the critical engine must be performed in manual flight",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, FCL 4.4; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4): FCL 4.4: L’AP reste indisponible au moins jusqu’au passage en régime MCT ou la fin de la rentrée des systèmes becs/volets",
-       "ref": "DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025 (original French), Annexe 3 §8, tableau des automatismes; retrieved 17 Nov 2026"
+       "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4) – English translation: FCL 4.4: The AP remains unavailable at least until reaching MCT rating or the end of retraction of the slats/flaps systems",
+       "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, Annexe 3 §8, tableau des automatismes; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       }
      ]
     },
