@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-19g",
+ "contentVersion": "2026-11-19h",
  "checkedDate": "2026-11-06",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
@@ -804,12 +804,12 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): Croatian Civil Aviation Agency forms LIC-FRM-256 Rev. 9, LIC-FRM-276 Rev. 3 and LIC-FRM-313 Rev. 3 (all 01.09.2026) and the examiner standardisation application LIC-FRM-424 Rev. 2 searched: no national rule on retest, retraining or same examiner found. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
-       "text": "NOT CHECKED: no NAA examiner handbook found for this authority. Check its Examiner Differences Document entry and standardisation briefing.",
-       "ref": "Search result, 17 Nov 2026 (not a quotation)"
+       "text": "SEARCHED, NOTHING FOUND: no autopilot or autothrottle instruction for the raw-data ILS, one-engine-inoperative ILS or go-around in the Croatian forms.",
+       "ref": "Search result, 19 Nov 2026 (not a quotation)"
       }
      ]
     },
@@ -1444,12 +1444,16 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
-       "ref": "Search result, 19 Nov 2026 (not a quotation)"
+       "text": "▸ SAME EXAMINER (Estonia): In the event of a partial pass or fail: I agree / disagree for re-examination with the same examiner",
+       "ref": "Estonian Transport Administration (Transpordiamet) form OT_243_K1_V27_r1, approved 27.02.2025 (bilingual Estonian/English; English text quoted), page 14 of 15, applicant’s declaration; retrieved 19 Nov 2026"
       },
       {
-       "text": "NOT CHECKED: no NAA examiner handbook found for this authority. Check its Examiner Differences Document entry and standardisation briefing.",
-       "ref": "Search result, 17 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST (Estonia): If all sections are passed – Final result : Passed. If 1-5 items are failed - Final result : Partial pass. If 6 or more items are failed -- Final result : Failed.",
+       "ref": "Estonian Transport Administration (Transpordiamet) form OT_243_K1_V27_r1, approved 27.02.2025 (bilingual Estonian/English; English text quoted), result section; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "SEARCHED, NOTHING FOUND: no autopilot or autothrottle instruction for the raw-data ILS, one-engine-inoperative ILS or go-around in Transpordiamet forms OT_243_K1_V27, V16, V39 and the examiner forms supplied.",
+       "ref": "Search result, 19 Nov 2026 (not a quotation)"
       }
      ]
     },
@@ -2468,12 +2472,20 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
-       "ref": "Search result, 19 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST (Germany): Result of Skill Test/ Proficiency Check: Skill Test (ST) / Proficiency Check (PC) / Partial Repetition / Entire Repetition",
+       "ref": "Luftfahrt-Bundesamt (LBA) Examiner Report TR MPA / SP complex HPA MP/SP-OPS, Rev. 10.0, 01.09.2025, page 1, Result of Skill Test/Proficiency Check (tick boxes); retrieved 19 Nov 2026"
       },
       {
-       "text": "NOT CHECKED: no NAA examiner handbook found for this authority. Check its Examiner Differences Document entry and standardisation briefing.",
-       "ref": "Search result, 17 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST (Germany): Failure to achieve a pass in all sections of the test in two attempts will require further training.",
+       "ref": "Luftfahrt-Bundesamt (LBA) Notes for TR MPA, SP complex HPA MP/SP-OPS, Rev. 6, 29.08.2024 (excerpt of Part-FCL of Commission Regulation (EU) No 1178/2011 reproduced by LBA), Appendix 9, A. General, point 2, page 1 of 5; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (Germany): Failure in any item on the retest or recheck, including those items that have been passed on a previous attempt, will require applicants to repeat the entire check or test again.",
+       "ref": "Luftfahrt-Bundesamt (LBA) Notes for TR MPA, SP complex HPA MP/SP-OPS, Rev. 6, 29.08.2024 (excerpt of Part-FCL of Commission Regulation (EU) No 1178/2011 reproduced by LBA), Appendix 9, B. Specific requirements for the aeroplane category, Pass marks, point 2, page 3 of 5; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "SEARCHED, NOTHING FOUND: no autopilot or autothrottle instruction for the raw-data ILS, one-engine-inoperative ILS or go-around in the LBA notes (Rev. 6) and examiner report (Rev. 10.0).",
+       "ref": "Search result, 19 Nov 2026 (not a quotation)"
       }
      ]
     },
@@ -2992,12 +3004,16 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
-       "ref": "Search result, 19 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST (Iceland): *For partial pass or fail, specify reasons in sections 8 & 9. Use new test/check form for further attempts.",
+       "ref": "Icelandic Transport Authority form LF-1.240 V. 11 of 29.05.2024, section 7, Result; retrieved 19 Nov 2026"
       },
       {
-       "text": "NOT CHECKED: no NAA examiner handbook found for this authority. Check its Examiner Differences Document entry and standardisation briefing.",
-       "ref": "Search result, 17 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST (Iceland): Use new form in case of test/check partial pass or fail, Examiner must sign in this field.",
+       "ref": "Icelandic Transport Authority form LF-1.240 V. 11 of 29.05.2024, section 10, Instructions, point 5; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "SEARCHED, NOTHING FOUND: no autopilot or autothrottle instruction for the raw-data ILS, one-engine-inoperative ILS or go-around in Icelandic Transport Authority forms LF-1.240 (V. 11), LF-270 and LF-480.",
+       "ref": "Search result, 19 Nov 2026 (not a quotation)"
       }
      ]
     },
@@ -3778,7 +3794,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: the Latvia authority documents are web links only and have not been read yet. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
@@ -3937,7 +3953,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): no separate Liechtenstein document with a retest, retraining or same-examiner rule was read. The EDD note above says the Swiss FOCA information applies to Liechtenstein for the topics it lists; the FOCA rules are on the Switzerland card. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
@@ -4014,7 +4030,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: the Lithuania authority documents are web links only and have not been read yet. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
@@ -4173,12 +4189,12 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): Luxembourg DAC form 111-16 rev. 12 (November 2024) searched: no national rule on retest, retraining or same examiner found. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
-       "text": "NOT CHECKED: no NAA examiner handbook found for this authority. Check its Examiner Differences Document entry and standardisation briefing.",
-       "ref": "Search result, 17 Nov 2026 (not a quotation)"
+       "text": "SEARCHED, NOTHING FOUND: no autopilot or autothrottle instruction for the raw-data ILS, one-engine-inoperative ILS or go-around in Luxembourg form 111-16.",
+       "ref": "Search result, 19 Nov 2026 (not a quotation)"
       }
      ]
     },
@@ -6152,7 +6168,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: the Poland authority documents are web links only and have not been read yet. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
@@ -6323,12 +6339,36 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
-       "ref": "Search result, 19 Nov 2026 (not a quotation)"
+       "text": "▸ SAME EXAMINER (Portugal): FORM(S) of previous attempt(s) shall passed to the new Examiner and attached to the new FORM.",
+       "ref": "ANAC Form 8.2.6.1.22 rev 2 (ST/PC MPA – Skill Test or Proficiency Check Multi-Pilot Aeroplane PBN), Instructions, Annex 2 of 2, Pass/fail policy; retrieved 19 Nov 2026"
       },
       {
-       "text": "NOT CHECKED: ANAC Portugal examiner manual could not be reached.",
-       "ref": "Search result, 17 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST (Portugal): Indicate attempt number. In case of a re-Test/Check, indicate the date of the previous attempt. NOTE: Form(s) of previous attempt(s) shall be attached to this Form and verified by the Examiner.",
+       "ref": "ANAC Portugal Flight Examiner Handbook, Revision 1, 25 Oct 2021, 7.7 EASA Forms, Section C.1; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (Portugal): Failure in any item on the re-Test/Check including those items that have been passed at a previous attempt will require the applicant to take the entire Test/Check again.",
+       "ref": "ANAC Form 8.2.6.1.22 rev 2 (ST/PC MPA – Skill Test or Proficiency Check Multi-Pilot Aeroplane PBN), Instructions, Annex 2 of 2, Pass/fail policy; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (Portugal): Should the applicant choose to terminate the Test/Check for reasons considered inadequate by the Examiner, grade ‘FAIL’ in section C.3. The applicant shall retake the entire Test/Check, for which a new FORM shall be used.",
+       "ref": "ANAC Form 8.2.6.1.22 rev 2 (ST/PC MPA – Skill Test or Proficiency Check Multi-Pilot Aeroplane PBN), Instructions, Annex 2 of 2, Conduct of the test; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (Portugal): If the Test/Check is terminated for reasons considered adequate by the Examiner, only those sections not completed shall be tested in a further flight/session. In such case, the same FORM shall be used, completing the missing items/sections.",
+       "ref": "ANAC Form 8.2.6.1.22 rev 2 (ST/PC MPA – Skill Test or Proficiency Check Multi-Pilot Aeroplane PBN), Instructions, Annex 2 of 2, Conduct of the test; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETRAINING (Portugal): In case of a Proficiency Check for revalidation of a rating and a Partial Pass or Fail is obtained: the applicant additionally acknowledges, that in accordance with the Regulations – FCL.740.A(c) - (s)he may not exercise the privileges of the Rating, until a PASS in a new PC is obtained.",
+       "ref": "ANAC Portugal Flight Examiner Handbook, Revision 1, 25 Oct 2021, 7.7 EASA Forms, Section C.5; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ FAIL (Portugal): If the applicant refuses to sign, the Examiner shall record the fact in SECTION D - “Remarks/Reasons for Failure”. ANAC shall be informed with undue delay, with a short report of the event.",
+       "ref": "ANAC Portugal Flight Examiner Handbook, Revision 1, 25 Oct 2021, 7.7 EASA Forms, Section C.5; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "SEARCHED, NOTHING FOUND: no autopilot or autothrottle instruction for the raw-data ILS, one-engine-inoperative ILS or go-around in the ANAC Flight Examiner Handbook (Revision 1, 25 Oct 2021) and form 8.2.6.1.22.",
+       "ref": "Search result, 19 Nov 2026 (not a quotation)"
       }
      ]
     },
@@ -6678,7 +6718,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: the Romania authority documents are web links only and have not been read yet. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
@@ -6881,12 +6921,24 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
-       "ref": "Search result, 19 Nov 2026 (not a quotation)"
+       "text": "▸ SAME EXAMINER (Slovakia): A change of the examiner due to unexpected circumstances must be announced at least 24 hours prior to the test, again, via sending an e-mail to the testnot@nsat.sk address. Please, add “CHANGE” to the e-mail subject (in order to prioritise the notification in our system). Designation for an alternate examiner shall be issued. Always assign the reason to the examiner exchange.",
+       "ref": "Transport Authority of the Slovak Republic, Examiner Briefing Procedure and Requirements (Foreign Examiner Procedure), last edited January 2024, page 1, The test notification system; retrieved 19 Nov 2026"
       },
       {
-       "text": "NOT CHECKED: no NAA examiner handbook found for this authority. Check its Examiner Differences Document entry and standardisation briefing.",
-       "ref": "Search result, 17 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST AND RETRAINING (Slovakia): In the event of a partial pass or fail, the examiner shall inform the applicant that he/she may not exercise the privilege of the rating until a full pass has been obtained. In such a case, the Examiner’s report – failure of the test (F097-B…) shall be filled in with the Examiner’s detailing of the reasons for any failure.",
+       "ref": "Transport Authority of the Slovak Republic, Examiner Briefing Procedure and Requirements (Foreign Examiner Procedure), last edited January 2024, page 2, Completion of the Test; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETRAINING (Slovakia): The examiner shall detail any further training requirements and explain the applicant’s right of appeal.",
+       "ref": "Transport Authority of the Slovak Republic, Examiner Briefing Procedure and Requirements (Foreign Examiner Procedure), last edited January 2024, page 2, Completion of the Test; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (Slovakia): In case of a partially passed or failed exam an examiner shall fill in the form F097-B EXAMINER REPORT – FAILURE OF TEST",
+       "ref": "Transport Authority of the Slovak Republic form DÚ/F052-B/v10/OPL, page 2, section 4; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "SEARCHED, NOTHING FOUND: no autopilot or autothrottle instruction for the raw-data ILS, one-engine-inoperative ILS or go-around in the Transport Authority Foreign Examiner Procedure (January 2024) and form F052-B v10.",
+       "ref": "Search result, 19 Nov 2026 (not a quotation)"
       }
      ]
     },
@@ -7020,7 +7072,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: the Slovenia authority documents are web links only and have not been read yet. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
@@ -7215,11 +7267,15 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
-       "ref": "Search result, 19 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST AND RETRAINING (Spain): In accordance with Part FCL, if the applicant fails to pass all sections of the second examination, the examiner shall determine the additional training to be undertaken; furthermore, the applicant shall be required to retake the full skill test. The applicant must provide evidence of this training to the examiner who conducts the next skill test.",
+       "ref": "Spanish State Aviation Safety Agency (AESA) form LIC-PVLO-P01-F10E Ed. 02, section 6, Notice of failure, page 5 of 15; retrieved 19 Nov 2026"
       },
       {
-       "text": "AESA Guía de Actuación para Examinadores de Vuelo (LIC-PVLO-P01-GU01, Ed. 02) read: no autothrottle rule found for raw-data ILS, one-engine-inoperative ILS or go-around. EASA FEM Module 5.1 (V2021.1) has no autothrust rule for these items.",
+       "text": "▸ RETRAINING (Spain): I understand that I may not exercise the privileges of [rating] following the failure of this the skill test or proficiency check until the successful completion of training and a further skill test or proficiency check.",
+       "ref": "Spanish State Aviation Safety Agency (AESA) form LIC-PVLO-P01-F10E Ed. 02, section 6, Notice of failure, page 5 of 15 (applicant’s declaration); retrieved 19 Nov 2026"
+      },
+      {
+       "text": "AESA guide for flight examiners (Spanish-language document, LIC-PVLO-P01-GU01, Ed. 02) read: no autothrottle rule found for raw-data ILS, one-engine-inoperative ILS or go-around. EASA FEM Module 5.1 (V2021.1) has no autothrust rule for these items.",
        "ref": "Search result, 17 Nov 2026 (not a quotation)"
       }
      ]
