@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-19f",
+ "contentVersion": "2026-11-19g",
  "checkedDate": "2026-11-06",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
@@ -177,8 +177,20 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
-       "ref": "Search result, 19 Nov 2026 (not a quotation)"
+       "text": "▸ RETEST AND SAME EXAMINER (Austria): In case of a fail of the conduction of the check the examiner has to inform the applicant that the second attempt has to be conducted by an examiner explicitly designated by the competent authority.",
+       "ref": "Austro Control Flight Examiner’s Manual for Aeroplanes and Helicopters, HB LSA PEL 002, Version 6.0 (printout 28.03.18; © Austro Control 2017), Module 1, main purpose of a test or check, point 4 (page 6 of 75); retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (Austria): make a clear decision on the result of the test/check with precise details of the reason for each failed item indicating any fail result in a friendly but firm manner.",
+       "ref": "Austro Control Flight Examiner’s Manual for Aeroplanes and Helicopters, HB LSA PEL 002, Version 6.0 (printout 28.03.18; © Austro Control 2017), 7.7 Post flight - debriefing, point 2; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (Austria): where an existing rating has been failed instruct the applicant about the implications of his result",
+       "ref": "Austro Control Flight Examiner’s Manual for Aeroplanes and Helicopters, HB LSA PEL 002, Version 6.0 (printout 28.03.18; © Austro Control 2017), 7.7 Post flight - debriefing, point 3; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (Austria): explain to the applicant administrative steps required following the result",
+       "ref": "Austro Control Flight Examiner’s Manual for Aeroplanes and Helicopters, HB LSA PEL 002, Version 6.0 (printout 28.03.18; © Austro Control 2017), 7.7 Post flight - debriefing, point 4; retrieved 19 Nov 2026"
       },
       {
        "text": "NOT CHECKED: Austro Control examiner material could not be reached.",
@@ -359,8 +371,24 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ NOTIFICATION OF A RECHECK (Belgium): Partial Pass or failure, recheck with same examiner — 24 hours",
-       "ref": "EASA Examiner Differences Document 2026/Q4, Belgium, 4.3.2 notification table; retrieved 19 Nov 2026"
+       "text": "▸ NOTIFICATION OF A RETEST (Belgium): In case of a partial pass or fail, the examiner has to submit in a new request again 24 hours in advance of any retest.",
+       "ref": "Belgian CAA Flight Examiners Difference Document (Aeroplanes & Helicopters), 3.1.2.1 Registration process and unique test/check number; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (Belgium): In cases where failure was due to a clear lack of skill and/or knowledge, the examiner should make it clear to the applicant that they are unlikely to be successful during a subsequent test unless they undergo further training to remedy that lack of skill and/or knowledge.",
+       "ref": "Belgian CAA Flight Examiners Difference Document (Aeroplanes & Helicopters), 4.3 Further Training; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (Belgium): Examiners must ensure that the training requirements are proportionate, clearly defined and understood by the applicant. It is recommended that such further training be carried out at the training organisation that trained the applicant.",
+       "ref": "Belgian CAA Flight Examiners Difference Document (Aeroplanes & Helicopters), 4.3 Further Training; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ SAME EXAMINER (Belgium): Examiners must also confirm before retest that further training mandated by a previous examiner has been completed. In cases where an applicant has failed a second series of tests or checks, the Belgian CAA should be informed, who may nominate a designated Examiner for the third and subsequent test series.",
+       "ref": "Belgian CAA Flight Examiners Difference Document (Aeroplanes & Helicopters), 4.3 Further Training; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (Belgium): If a ‘fail’ or ‘partial pass’ has been recorded, the examiner should: a) Ask questions as required to confirm the assessment; b) Give results of the test; c) Give reasons for failure in descending order of importance; d) Tell the applicant they may not use the privileges of the licence or rating being tested; e) State what the retest requirements will be; f) State any mandatory or recommended further training requirements; g) Discuss with the applicant the best way to prepare for the retest.",
+       "ref": "Belgian CAA Flight Examiners Difference Document (Aeroplanes & Helicopters), 5.6 Post-flight test debriefing; retrieved 19 Nov 2026"
       },
       {
        "text": "NOT CHECKED: no NAA examiner handbook found for this authority. Check its Examiner Differences Document entry and standardisation briefing.",
@@ -918,7 +946,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): Cyprus DCA information notice LIC 2024/01 searched: no national rule on retest, retraining or same examiner found. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
@@ -1233,24 +1261,28 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST (Denmark): Likewise, is valid for a retake – treat the retake in the simulator as you would have to do in a real aircraft.",
-       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 15, 11.06.2026, General; retrieved 19 Nov 2026"
+       "text": "▸ REPEAT OF AN ITEM (Denmark): Repeat of individual test items (e.g. single-engine landing). When conducting a repeat of an individual test item, the examiner may, when appropriate, establish the aircraft in the required configuration without repeating previously assessed procedures. For example, the aircraft may be positioned in a one-engine-inoperative configuration, with the associated engine shutdown procedures considered completed. The examiner shall ensure that the repeat is conducted within an operationally realistic scenario.",
+       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 17, 26.10.2026, General, Repeat of individual test items; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ FAIL (Denmark): A test is failed – if you in the real world would not repeat it, e.g., starting an evacuation with the engines running, landing off the runway, crashing during a windshear. Observe – these are just examples!",
+       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 17, 26.10.2026, General; retrieved 19 Nov 2026"
       },
       {
        "text": "▸ ALL MANUAL FLYING: AP and AT off – latest from intercept course.",
-       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 15, 11.06.2026, Manual flying in general; retrieved 17 Nov 2026"
+       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 17, 26.10.2026, Manual flying in general; retrieved 17 Nov 2026"
       },
       {
        "text": "▸ RAW-DATA ILS (3.8.3.1): 3.8.3.1 Manually, without flight director. Flown as PF",
-       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 15, 11.06.2026, item 3.8.3.1; retrieved 17 Nov 2026"
+       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 17, 26.10.2026, item 3.8.3.1; retrieved 17 Nov 2026"
       },
       {
        "text": "▸ ONE-ENGINE-INOPERATIVE ILS (3.8.3.4): 3.8.3.4 Manually, with one engine simulated inoperative during final approach, either until touchdown or through the complete missed approach procedure (as applicable), starting: (i) before passing 1000 ft above aerodrome level; and (ii) after passing 1000 ft above aerodrome level. Flown as PF. It is essential to simulate an engine failure during the final approach before passing the OM (Outer Marker).",
-       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 15, 11.06.2026, item 3.8.3.4; retrieved 17 Nov 2026"
+       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 17, 26.10.2026, item 3.8.3.4; retrieved 17 Nov 2026"
       },
       {
        "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4): 4.4 Manual go-around with the critical engine simulated inoperative after an instrument approach on reaching DH, MDH, MAPt. Flown as PF. Manual until after clean up (or similar) at GA altitude",
-       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 15, 11.06.2026, item 4.4; retrieved 17 Nov 2026"
+       "ref": "Trafikstyrelsen Guidelines for examiners in FSTDs, version 17, 26.10.2026, item 4.4; retrieved 17 Nov 2026"
       },
       {
        "text": "EXAMINER'S NOTE (not the authority's wording): Denmark's text for the one-engine-inoperative ILS (3.8.3.4) and the go-around (4.4) says \"Manually\" / \"Manual\", which implies manual thrust. The raw-data ILS (3.8.3.1) is quoted as \"Manually, without flight director\". How this applies to the autothrottle is the examiner's judgement.",
@@ -1361,7 +1393,7 @@
    ],
    "forms": [
     {
-     "title": "Trafikstyrelsen guidelines for examiners in FSTDs, version 15 (11.06.2026)",
+     "title": "Trafikstyrelsen guidelines for examiners in FSTDs – the link shows an earlier version (15, 11.06.2026); the current version 17 (26.10.2026) is quoted in this app",
      "url": "https://cdn.trafikstyrelsen.dk/trafikstyrelsen/Media/639171068572480966/guidelines-ts-jun-2026-version-15.pdf"
     },
     {
@@ -1504,7 +1536,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): Traficom report forms LU3222e and LU3235e searched: no national rule on retest, retraining or same examiner found. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
@@ -1661,6 +1693,22 @@
       {
        "text": "▸ REPEAT, RETRAIN, RETEST AND SAME EXAMINER (this authority): each line is an unofficial English translation of the French text of the source named under it (not a quotation). The EASA rules that apply in every authority are on the last page (EASA rules for every NAA).",
        "ref": "Heading (explanatory note, not a quotation)"
+      },
+      {
+       "text": "▸ SAME EXAMINER (France, non-French examiners): *Partial pass: The same form is used to record 1st and 2nd attempts. If there is a change of Examiner for the 2nd attempt, the form should be forwarded to the second Examiner for completion and then given to the candidate.",
+       "ref": "DGAC/DSAC Procedures for Non French Examiners, Version 2.0 of 01/10/2026 (English), 3.5 Procedures for paperwork, note on partial pass; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ SAME EXAMINER (France, non-French examiners): When applicable, details of an incomplete examination can be transferred to a new examiner (case of partial pass).",
+       "ref": "DGAC/DSAC Procedures for Non French Examiners, Version 2.0 of 01/10/2026 (English), note on FCL.1030 (b), (c) and (d) (record keeping); retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (France, non-French examiners): The left part concerns the 1st attempt and the right part the 2nd attempt (following a partial pass)",
+       "ref": "DGAC/DSAC Procedures for Non French Examiners, Version 2.0 of 01/10/2026 (English), form guidance, Sections 5 of the form; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (France, non-French examiners): In case of partial pass or fail, the Examiner is responsible for reminding the candidate the applicable loss/restriction in privileges and having the form signed by the candidate",
+       "ref": "DGAC/DSAC Procedures for Non French Examiners, Version 2.0 of 01/10/2026 (English), form guidance, Sections 5 of the form; retrieved 19 Nov 2026"
       },
       {
        "text": "▸ RETEST AND RETRAINING (France) – English translation: If up to five items fail (“M” or not “M”, whether or not included in the scenario), provided the examiner does not decide on an adjournment because of an unsatisfactory general level, the examiner will pronounce a PARTIAL PASS. Items found failed must be recorded FAIL at the first attempt.",
@@ -2587,8 +2635,24 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
-       "ref": "Search result, 19 Nov 2026 (not a quotation)"
+       "text": "▸ SAME EXAMINER (Greece): A different Examiner may conduct Attempt 2. All items in Attempt 1 must be completed before starting Attempt 2.",
+       "ref": "Hellenic CAA form PEL-FCL 540 Revision 2 (04/11/2024), Application and Report Form (multi-pilot aeroplanes), guidance notes, Section 8; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (Greece): Section 7: Skill Test / Proficiency Check Details (2nd Attempt only) – to be completed by the Examiner that conducts the 2nd attempt (re-test following Partial Pass) only.",
+       "ref": "Hellenic CAA form PEL-FCL 540 Revision 2 (04/11/2024), Application and Report Form (multi-pilot aeroplanes), guidance notes, Section 7; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (Greece): If the result of the test/check is a Partial Pass or Fail, the Examiner report must be completed – the report can be continued on a separate sheet of paper if necessary.",
+       "ref": "Hellenic CAA form PEL-FCL 540 Revision 2 (04/11/2024), Application and Report Form (multi-pilot aeroplanes), guidance notes, Section 6; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST AND RETRAINING (Greece): EXAMINER REPORT (complete for Partial Pass or Fail only) Minimum further training requirement prior to re-test (if applicable)",
+       "ref": "Hellenic CAA form PEL-FCL 540 Revision 2 (04/11/2024), Application and Report Form (multi-pilot aeroplanes), form, Examiner report; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (Greece): (Note: if the test is stopped because the Examiner considers that the applicant’s demonstration of flying skill requires a complete re-test, the result must be recorded as a Fail)",
+       "ref": "Hellenic CAA form PEL-FCL 540 Revision 2 (04/11/2024), Application and Report Form (multi-pilot aeroplanes), form, Result; retrieved 19 Nov 2026"
       },
       {
        "text": "NOT CHECKED: no NAA examiner handbook found for this authority. Check its Examiner Differences Document entry and standardisation briefing.",
@@ -2733,7 +2797,7 @@
        "ref": "Heading (explanatory note, not a quotation)"
       },
       {
-       "text": "▸ RETEST AND RETRAINING (national): NOT CHECKED: no national retest, retraining or same-examiner rule read for this authority. The EASA rules on the last page (EASA rules for every NAA) apply.",
+       "text": "▸ RETEST AND RETRAINING (national): Hungarian authority examiner documents (EX-01 examiner certificate and report forms) searched: no national rule on retest, retraining or same examiner found. The EASA rules on the last page (EASA rules for every NAA) apply.",
        "ref": "Search result, 19 Nov 2026 (not a quotation)"
       },
       {
