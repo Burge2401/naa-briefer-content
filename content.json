@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-19c",
+ "contentVersion": "2026-11-19d",
  "checkedDate": "2026-11-06",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
@@ -1731,7 +1731,7 @@
        "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, FCL 4.4; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       },
       {
-       "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4) – English translation: FCL 4.4: The AP remains unavailable at least until reaching MCT rating or the end of retraction of the slats/flaps systems",
+       "text": "▸ GO-AROUND, ENGINE INOPERATIVE (4.4) – English translation: FCL 4.4: The AP remains unavailable at least until reaching the MCT setting or the end of retraction of the slats/flaps systems",
        "ref": "Unofficial English translation of DSAC Guide du TRE/SFE avions MP, Révision 13, mars 2025, Annexe 3 §8, tableau des automatismes; the authority’s text is in French. Not a quotation; retrieved 19 Nov 2026"
       }
      ]
