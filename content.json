@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-19e",
+ "contentVersion": "2026-11-19f",
  "checkedDate": "2026-11-06",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
@@ -510,7 +510,7 @@
      "url": "https://www.mobilit.fgov.be/applications/Internet/EasyWebForms.nsf/BCAA_SkillTest.xsp"
     },
     {
-     "title": "Enregistrer un skill test, proficiency check or assessment of competence d’un titulaire d’une licence non-belge",
+     "title": "Register a skill test, proficiency check or assessment of competence of a holder of a non-Belgian licence (online form, Belgian CAA)",
      "url": "https://www.mobilit.fgov.be/applications/Internet/EasyWebForms.nsf/BCAA_SkillTest_Report_MO.xsp"
     },
     {
@@ -1875,24 +1875,517 @@
      "url": ""
     },
     {
-     "title": "DSAC Guide du TRE/SFE avions MP, Révision 13 (mars 2025)",
+     "title": "DSAC TRE/SFE guide for multi-pilot aeroplanes, Revision 13 (March 2025) – PDF, French language only",
      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_TRE_SFE_MPA_et_Scenario_FCL_0.pdf"
     }
    ],
    "note": null,
-   "ownTitle": "DGAC/DSAC Guide du TRE/SFE Multi Pilot Aeroplane, Révision 13, March 2025 (French)",
+   "ownTitle": "DGAC/DSAC TRE/SFE Guide, Multi-Pilot Aeroplane, Revision 13, March 2025 (unofficial English translation of the French text; the authority publishes in French only)",
    "own": [
     {
-     "title": "France’s own manual (DSAC guide)",
+     "title": "A. Scope of the guide (who is covered)",
      "items": [
       {
-       "text": "This part of the France card is being translated into English. The French authority publishes its examiner guide in French only, so the French text has been taken out of the app until the English version is ready. The EASA rules on the last page and the English lines in Conducting the check still apply.",
-       "ref": "Explanatory note, 19 Nov 2026 (not a quotation)"
+       "text": "The TRE/SFE MPA guide is written for TREs/SFEs acting on multi-pilot certified aeroplanes (CS25).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §1.2 (population concerned); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Revision 13 of the guide is effective from 31 March 2025.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §1.2 (revision in force); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In the event of contradictory information between the content of the guide and the regulations in force, the latter remain the reference. In such a situation (or in case of doubt) examiners are invited to inform/contact the PEPN via the functional mailbox dsac-pepn-aircrew-bf@aviation-civile.gouv.fr .",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §1.2 (hierarchy of texts); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The recommendations and instructions in this guide refer to all examinations falling under Part-FCL Appendix 9.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §1.2.2 (scope); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "To date, any administrative act of issue, renewal, revalidation or extension of privileges of a rating (aeroplane, instructor), authorisation (examiner), or test report (AoC, TRF) must first go through the PN Portal online procedures. Type rating revalidations are always carried out on Sigebel when the conditions of use of Sigebel allow it. Only special cases will be handled via the examiners functional mailbox examinateurs.pro@aviation-civile.gouv.fr , or in case of proven unavailability of the PN Portal online procedures.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §1.1 (online procedures / Sigebel); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The examiner’s mandate is attached to the supervising Administration and not to an Operator.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §1.3.2 (mandate attached to the Administration); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "B. Acts on EASA licences not administered by France (5.3.3) and cross-references",
+     "items": [
+      {
+       "text": "With a view to carrying out an FCL act on a licence issued by a Member State other than the one that issued his/her examiner authorisation, the TRE/SFE must comply with the national procedures of the State administering that licence. To this end, the Examiner Differences Document (EDD) summarising the national procedures and instructions specific to each State is available on the EASA website: Examiner Differences Document. Note: it is advisable to find out about each State’s specific provisions well in advance, as some States may impose fairly long notice periods.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.3; unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "To carry out an FCL act on a licence issued by a Member State other than the one that issued his/her examiner authorisation, refer to sub-chapter 5.3.3.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.1.2 (cross-reference 5.3.3); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "1.2. Entry of an FCL act carried out by a French TRE on a foreign licence. A TRE/SFE required to carry out an act on a licence of another Member State must comply with the national requirements and procedures laid down by that State and use the corresponding forms (refer to sub-chapter 5.3.3).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §1.2 (French TRE on a foreign licence); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The second part of the menu allows any type of act (issue, revalidation, licence renewal, type rating, instructor rating or IR rating) carried out on a non-French EASA licence to be entered, but it is optional. It is in no way a declaration of the act to the Civil Aviation Authority administering the candidate’s licence, but only allows this activity to be counted towards the experience conditions necessary for revalidation of the logged-in French examiner’s TRE(A) MP authorisation.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §2.4 (Sigebel menu, acts on non-French EASA licence); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In case of an act on a foreign licence: knowledge and compliance with the applicable national procedures (EDD)",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 5 / Checklist (check of national procedures); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Examiner acts on foreign licences (knowledge of the Examiner Differences Document EDD published by EASA – see the chapter on acts on licences.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.4.2.1 (training – EDD); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "C. Act of an examiner of another Member State on a French licence (the only passage concerning foreign examiners)",
+     "items": [
+      {
+       "text": "1.3. Entry of an FCL act carried out by a TRE of a Member State on a French licence. The TRE/SFE (NFE) of a Member State enters the revalidation/renewal act on the PN Portal online procedures or on a PDF form. In the case of a ST and LST, the latter must be registered by the examiners’ office before the examination is conducted (verification of his/her licence and authorisation, standardisation self-briefing…). The administrative procedures relating to these checks are available in the EASA EDD document (Examiner Differences Document).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §1.3; unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Use of the PN Portal online procedures or handing the PDF TRF to a candidate for a privilege to be entered by the licensing office should remain exceptional and limited to cases of: - Lack of space on the candidate’s licence. - Candidate not presenting the medical certificate. - Proven malfunction of the IT tools. - Impossibility of access to the system (TRE/SFE of another Member State acting on a French licence or access codes being issued).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §2.1 (reasons for using the online procedures / PDF); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The only TRE/SFE act that can be entered by hand by the examiner on a licence administered by France is the revalidation of the TR and the associated IR/PBN, via SIGEBEL. This entry is subject to the following conditions: - The examiner holds a TRE/SFE authorisation administered by France. - The candidate’s licence is administered by France. - The entry takes place before the calendar expiry of the TR (23:59 Paris time). - There is still room on the candidate’s licence for the entry.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §2.2 (only handwritten act – conditions); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Reserved for examiners holding an EASA TRE/SFE authorisation not administered by France. When ticked, it confirms that the examiner has taken into account the French national instructions for conducting the check.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.5.4 (TRF box – examiner whose authorisation is not administered by France); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "D. Examiner’s conditions of exercise and prerequisites",
+     "items": [
+      {
+       "text": "A TRE/SFE may not conduct a practical examination (ST or LST), a proficiency check (LPC) or an assessment of competence (AoC TRI/SFI): - When his/her objectivity with regard to the candidate is likely to be affected in any way (private or family relationship, economic, political, etc.). - At a 2nd presentation for the examination for which he/she pronounced the candidate’s failure, except with the candidate’s express agreement (AMC2 FCL.1015).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.1.2; unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- At a 2nd presentation for the examination for which he/she pronounced the candidate’s failure, except with the candidate’s express agreement (AMC2 FCL.1015).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.1.2 (2nd bullet); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The validity of TRE/SFE authorisations is 3 years (end-of-month rule – ARA.FCL.215).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.3.1; unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "To exercise the privileges of his/her authorisation, the TRE/SFE examiner must hold a valid instructor rating (TRI for a TRE and SFI for an SFE) entitling him/her to instruct for the licence, rating or certificate for which he/she acts as examiner (FCL.1000(a)(1)).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.3.1 (valid instructor rating); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "An examiner must hold a medical certificate when exercising on an aeroplane.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.3.2 (examiner medical fitness); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- LPCs for revalidation or renewal of the Type Rating and the associated IR**.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §3.1 (TRE privileges – LPC); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "On the date on which he/she acts as examiner (under FCL and/or OPS), the TRE must: - Hold valid licences, ratings and/or authorisations equivalent to those for which he/she is authorised to conduct the corresponding practical checks, and hold the privileges to give instruction for them. - Be qualified to act as CPT on the aeroplane concerned for LPC, AoC and LST checks carried out on an aeroplane.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §3.1.1 (conditions); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Under FCL*, the SFE is authorised to conduct in an FFS: - STs for the issue, and LPCs for the revalidation or renewal of the Type Rating.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §3.2 (SFE privileges – LPC); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- An SFE cannot conduct an initial License Skill Test (entry of the first rating on the licence); this privilege is restricted to the TRE (FCL.1005 TRE (a)(1) ≠ FCL.1005 SFE (a)(1))",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §3.2 (SFE: no initial LST); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Have carried out 6 acts falling under FCL (Skill/LST, proficiency check, AoC, EBT assessment) during the three years of the mandate as examiner.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.5.2 (6 acts over 3 years – French examiners); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "E. Before the check: planning, verifications, notification, scenario",
+     "items": [
+      {
+       "text": "An examiner should not plan or accept, on the same day, more than two checks falling within his/her privileges. The DSAC recommends limiting an examiner’s activity to one check per day.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.1 (workload); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Give the candidate sufficient time to prepare for the check, normally not more than one hour (AMC2 FCL.1015).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.1 (1 h preparation); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Plan the check so that the minimum flight time (real [aeroplane] or simulated [FFS]) per candidate is not less than: • 2 hours for TR-related checks (with or without ATPL/MPL issue). • 3 hours for the AoC of an SFI (AMC4 FCL.935) or of a TRI (AltMOC FCL.935 TRI AoC still in force).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.1 (minimum duration); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Never plan less than 4 hours for a TR, ATPL or MPL check (including the briefing, flight preparation, the check, the debriefing and writing of reports).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.1 (4 hours); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- When the planning of a check has been changed, the examiner must make sure that the candidate has understood and accepted these changes. Otherwise, he/she must suspend and postpone the check.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.1 (planning change); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Before undertaking a check, the examiner must make sure: - That communication with the candidate can be established without a language barrier. - That the simulator or aircraft used is appropriately equipped and suitable for the check. Only flight simulators approved for this purpose by the Authority of an EASA Member State, or by EASA, may be used.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.2 (language / FSTD); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Before conducting a practical check, the examiner must make sure that the candidate meets all the qualification, training and experience requirements needed to undertake the practical check. For this he/she relies on: - The training certificate, received by e-mail following completion of the PN Portal online procedure by the ATO. - Actual verification of the candidate’s documents. - The candidate’s declarations.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.3 (verification of the candidate’s prerequisites); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Clarifications on the requirement to hold English language proficiency (FCL.055): - Holding valid English language proficiency of level 4 minimum is necessary for revalidation of the IR (FCL.055 (a)&(d)). - Entry of this proficiency on a candidate’s licence is necessary to exercise IR privileges in flight (FCL.055(a)). - A candidate whose language proficiency is up to date, even if not entered on his/her licence, may therefore present for an FCL check in the simulator, provided he/she gives the examiner proof of the validity of his/her FCL.055 (LPO pass certificate). The absence of an FCL.055 entry does not block the revalidation act on Sigebel; the TRE remains responsible for the administrative act on Sigebel and must therefore verify the FCL.055 pass certificate before completing Sigebel.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.3 (FCL.055); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Revalidation of TR-MP and IR-ME - Valid CPL, MPL or ATPL licence, TR-MP and IR-ME. - Language proficiency: English valid on the day of the check. - Class 1 medical certificate (Note 1). - Proof of experience (Note 2). - Complete the test report in the PN Portal online procedure for archiving, or a TRF if Sigebel is used (so that conformity of the test can be attested later). - Entry on the licence: o Sigebel available: enter the revalidation on SIGEBEL (refer to ANNEX 1) and complete the licence. o Sigebel not available: create a new procedure in the PN Portal, online procedures.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.4 (TR-MP / IR-ME revalidation checklist); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Renewal of TR-MP and/or IR-ME - Candidate holding: o CPL, ATPL or MPL licence. o IR-ME. o Valid FCL.055. o Class 1 medical certificate (Note 1). - Training certificate for renewal of TR and/or IR-ME completed by the ATO. The candidate’s presentation for the proficiency check must be formalised on the certificate. This certificate is completed in the PN Portal online procedure by the ATO, which will generate an e-mail to the TRE, or handed to the candidate who will present it to the TRE in the case of a certificate customised by the ATO.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.4 (renewal checklist); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Note 1: Class 1 medical fitness: Check on aeroplane: - The medical certificate must be valid. Check on FSTD: - In accordance with FCL.015 (a), the candidate should present a valid class 1 medical certificate; however, in its absence: • He/she must nevertheless show no apparent sign of unfitness to carry out his/her duties, including the ability to cope with an emergency that may occur in a simulator (evacuation, fire…). • The TRE/SFE will recall that exercising the privileges linked to the examination is subject to holding a valid medical certificate. • In the case of revalidation, the entry cannot be made via SIGEBEL and must be made on the PN Portal online procedure. No handwritten entry on the licence is permitted (refer to sub-sub-chapter 5.4.14). The candidate undertakes to hold a valid medical on the day of the request for entry of his/her rating.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.4 Note 1 (class 1 medical); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Note 2: Proof of experience: The candidate must show that, during the validity period of the TR, he/she has carried out 10 sectors in flight operating on the type, or 1 sector operating on the type in flight or in the FFS under the supervision of an examiner (this may be done during the check if the scenario allows an actual trip including a cruise of at least 15 minutes). A pilot working for a commercial air transport Operator who has passed the Operator’s proficiency check combined with the proficiency check for revalidation of the class or type rating is exempt from the above requirements (FCL.740.A (a)(3)).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.4 Note 2 (proof of experience); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "All acts linked to the privileges of the TRE/SFE may be carried out by an examiner for the benefit of an individual candidate. In all cases, the scenario used must: - Be an Operator or ATO scenario. The TRE/SFE will make sure to obtain authorisation to use it from the organisation, or - Be a scenario drawn up on the initiative of the TRE/SFE. - When acting outside an Operator/ATO framework, TREs/SFEs must show the greatest vigilance concerning: o Verification of the candidate’s prerequisites to present for the check. o In the case of an issue or renewal, the examiner must make sure the candidate holds all the required training certificates. o Adequacy of the documentation used: all the necessary documentation (charts, FCOM, QRH, C/L, performance tables, etc.) must be available, up to date and correctly handled by the whole crew (refer to ANNEX 3). o The possibility of being faced with delicate cases and difficult decisions (under-trained pilots). o Their insurance liability (refer to 4.7).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.2 (individual candidates / scenario); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Any type of FCL scenario, whether conducted by an Operator or an ATO, must be filed in Météor; a check conducted by an individual examiner is the subject of a scenario filed in the aircrew functional mailbox.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 3 §4 (scenario filing); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "It will be sent to the functional mailbox dsac-pepn-aircrew-bf@aviation-civile.gouv.fr for LPC/ST and dsac-pepn-atpl-bf@aviation-civile.gouv.fr for ATPL. At the Authority’s initiative, it may be subject to a regulatory conformity check. Each scenario is filed separately and can be used as soon as it is sent to the functional mailbox.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 3 §13.2 (individual examiner – LPC/ST); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The examiner will inform the DSAC by e-mail, in the following format: Address dsac-pepn-aircrew-bf@aviation-civile.gouv.fr for LPC/ST or dsac-pepn-atpl-bf@aviation-civile.gouv.fr for ATPL. Subject: SCENARIO (TRE…[name, number], Aeroplane…, Date…). Text: Please find attached the scenario XXXXX. This scenario is sent to you for my individual use.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 3 §13.2 (e-mail format); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The examiner (if acting individually), or the Organisation using the services of an examiner, must arrange insurance covering: - Damage the examiner might suffer in the exercise of his/her duties. - Damage he/she might cause to third parties in the exercise of his/her duties (civil liability).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.7 (insurance); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The candidate or the Organisation proposes an examiner. The examiner is not designated by the Authority except in case of substitution decided by it. • He/she is neither reimbursed nor insured by the Administration.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.6.1 (proposed examiner – neither reimbursed nor covered); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "F. Conduct of the check (LPC)",
+     "items": [
+      {
+       "text": "A check comprises the following parts: - The briefing. - The oral examination. - The practical phase in the simulator/aeroplane. - The debriefing. - The administrative procedures (check forms).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.1 (parts of a check); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- AoC TRI/SFI, refer to the chapter Assessment of competence. - AoC TRE/SFE, refer to the SE Guide (I-TRE/SE prerogatives). - Combined FCL/OPS acts, refer to sub-chapters 5.1.3 and 5.1.4, and to the Operator’s OMD.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.1 (cross-references AoC and OPC); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Will verify the candidates’ documents and their conformity with the type of check planned (refer to the chapter TRE/SFE Checklist). It may be relevant here for the TRE to show his/her examiner authorisation to the trainees, so that all participants make sure that the check can be carried out.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.2.1.1 (verification of documents / authorisation); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Any candidate for an FCL examination must carry out the check in accordance with the applicable rules and be objectively assessed against the competence standards defined for the check. In particular, the examiner must not change his/her marking standards whatever the candidate (FO, CPT, instructor…).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.9.1 (marking); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Under FCL and at the examiner’s discretion, any exercise or manoeuvre of the programme not correctly performed may be repeated once (and only once) during the check, if time permits.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.9.3 (repeat of an exercise); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "If up to five items fail (“M” or not “M”, whether or not included in the scenario), provided the examiner does not decide on an adjournment because of an unsatisfactory general level, the examiner will pronounce a PARTIAL PASS. Items found failed must be recorded FAIL at the first attempt.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.2 (up to five items – Partial Pass); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "If more than five items fail (“M” or not “M”, whether or not included in the scenario), the examiner will adjourn the candidate, who must retake the entire check (adjournment at the 1st attempt).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.3 (more than five items); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In addition to the competence demonstrated in performing the items of Appendix 9.B.6, an adjournment may be motivated by an overall performance of insufficient level (AMC 2 to FCL.1015) and in particular:",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.4 (other reasons for adjournment – AMC2 FCL.1015); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Exceeding the tolerances defined for flying (despite taking into account the hazards linked to turbulence and ATC in the case of a check on an aeroplane).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.4 (i); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Lowering of the level of flight safety, violation of the Regulations, jeopardising control of the aeroplane, abrupt handling.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.4 (ii); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Failure of the candidate to achieve the objectives of the check (demonstration of an unacceptable level of knowledge, of situation management, lack of judgement or airmanship, non-technical skills, TEM…).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.4 (iii); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Need for intervention by the second pilot to maintain or recover a safe situation (intervention of the safety pilot for checks on an aeroplane).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.4 (iv); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Interruption of the check at the candidate’s request when the reason is judged inadmissible by the examiner.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.4 (v); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Failure to complete the check in the allotted time, because of the candidate’s excessive slowness.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.4 (vi); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The Partial Pass allows the examiner, under conditions (failure of 5 items or fewer and demonstrating a satisfactory general level of competence, APPENDIX 9 B.2.), to authorise a suitable supplementary check. This will be the 2nd attempt within the meaning of paragraph A.2 of Appendix 9 to Part-FCL. During this additional session, the candidate will be checked on a short scenario including, as a minimum, the items failed at the first attempt.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.5 (Partial Pass – principle); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- The items linked to non-technical skills, present in the TRF on page 6 (Management of crew cooperation, Maintaining a general survey of the aircraft, Setting priorities and making decisions in accordance with safety aspects and relevant rules and regulations appropriate to the operational situation, including emergencies) cannot be the subject of a partial pass or a removal of doubt. They will be marked either Pass or Fail.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.5 (non-technical items); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The TR validity date is a limit for handling a Partial Pass. If the second attempt cannot be organised before that date, the candidate is de facto in a renewal situation (and must therefore contact an ATO to organise that renewal).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.5.2 (calendar limit); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The examiner must announce the suspension of privileges to the candidate in every case.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.5.2 (suspension of privileges); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In case of adjournment at the first or second attempt: - Any new presentation must be preceded by completion of a training programme (defined by the RP/RDFE after taking into account the examiner’s proposal and remarks). - The same examiner should not check a candidate a second time without the candidate’s formal agreement (AMC2 FCL.1015(m)).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.10.6 (adjournment); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Any failure of an item at the first attempt before the session is interrupted prevents the candidate from exercising the privileges linked to his/her Type Rating. A PARTIAL PASS decision can only be taken at the end of the supplementary session, when the whole programme has been covered at the 1st attempt.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.11.1 (interruption not linked to performance); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The initial TRE/SFE will fill in the online procedure stating “check interrupted due to…”. The candidate will hand the check report received by e-mail to the second TRE/SFE. The latter will fill in a new online procedure in the PN Portal, entering the items validated by the first TRE/SFE (on the basis of the first report), and will complete the report with the items validated during the second check; he/she will also enter the mention “continuation of the check started on dd-mm-yyyy”.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.11.3 (interruption – report); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The examiner must communicate the result of the check to the candidate unambiguously from the start of the debriefing (pass, adjournment, Partial Pass, check interrupted). Leaving the candidate to guess the result is not acceptable.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.12.1 (announcement of the result); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In case of Partial Pass or FAIL, state to the candidate that he/she can no longer exercise the privileges of the rating concerned until he/she has fully passed the check.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.12.1 (privileges after Partial Pass / FAIL); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "G. After the check: reports, submissions, deadlines, archiving",
+     "items": [
+      {
+       "text": "The administrative means used to enter FCL acts are: - Revalidation: o Type rating:  If passed: SIGEBEL (completion and signature of the licence by the TRE)  In case of Partial Pass: SIGEBEL + PN Portal online procedures  In case of Fail: SIGEBEL + PN Portal online procedures  In case of proven unavailability of SIGEBEL: PN Portal online procedures (the candidate must start a PN Portal online procedure attaching the report received by e-mail)  In case of proven unavailability of SIGEBEL and of the PN Portal online procedures: TRF in PDF format (in case of Fail sent by the TRE/SFE to examinateurs.pro@aviation-civile.gouv.fr ) (PDF file sent by the candidate to the regional Licensing Office https://www.ecologie.gouv.fr/politiques-publiques/bureaux-licences-regions-dsacir)",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §1.1 (administrative means – TR revalidation); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Instructor / Examiner:  PN Portal online procedures  In case of proven unavailability of the PN Portal online procedures: PDF form (in case of Fail sent by the TRE/SFE to examinateurs.pro@aviation-civile.gouv.fr ) (PDF file sent by the candidate to the regional Licensing Office https://www.ecologie.gouv.fr/politiques-publiques/bureaux-licences-regions-dsacir)",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §1.1 (instructor / examiner); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Issue, Renewal:  PN Portal online procedures  In case of proven unavailability of the PN Portal online procedures: PDF form. (In case of fail, sent by the TRE/SFE to examinateurs.pro@aviation-civile.gouv.fr ) (PDF file sent by the candidate to the regional Licensing Office https://www.ecologie.gouv.fr/politiques-publiques/bureaux-licences-regions-dsacir)",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §1.1 (issue, renewal); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Unavailability of the IT means (SIGEBEL and PN Portal online procedures) means an IT failure, not forgetting or not creating the TRE/SFE’s user name and password.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §1.1 (unavailability – definition); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The procedure must be validated by clicking “validate” at the next step. Warning: no procedure can be resumed after validation; make sure that all sections are completed and reflect the reality of the check.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §3.1 (validation); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Once the procedure is validated, a copy of the check report will be sent to the candidate (and to the ATO if entered in the “Applicant/Candidat” section).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §3.1 (copy to candidate / ATO); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "TR revalidation – candidate PASSED. To be used only if SIGEBEL is unavailable - Preparing the check: o Go to “Examiner space” o Choose “Complete a practical skill test report – class rating – type rating” o “Start” a new procedure o Pre-fill all the fields available before the check; the procedure can be resumed after the check. - After the check: o Complete the procedure o Validate the procedure (warning: no further modification of the check is possible after validating the procedure); a copy will then be sent to the candidate by e-mail o Archive the check",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §3.2 (checklist – revalidation, candidate passed); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "TR revalidation – adjournment or PARTIAL PASS. To be used only if SIGEBEL is unavailable - Preparing the check: o Go to “Examiner space” o Choose “Complete a practical skill test report – class rating – type rating” o “Start” a new procedure o Pre-fill all the fields available before the check; the procedure can be resumed after the check. - After the check: o Complete the procedure o Fill in the items as “FAIL” or “PARTIAL PASS” and explain the reasons for the adjournment in the “Result of the test” section o Validate the procedure (warning: no further modification of the check is possible after validating the procedure); a copy will then be sent to the candidate by e-mail o The candidate will hand the second TRE the copy of the result of the first attempt. - Archive the check - The Licensing Office will match the two checks in order to enter the candidate’s privilege if the second check is passed.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §3.2 (checklist – adjournment / Partial Pass revalidation); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Note: Like the TRE/SFE, the ATO or the Operator must keep a copy of the test report for archiving purposes.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §3.2 (archiving ATO / Operator); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "An adjournment or a Partial Pass must be the subject of a summary report entered in the “Result of the test” step of the PN Portal online procedure.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.12.6 (summary report); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Renewal or issue, (PN Portal online procedures): o The Authority is automatically informed by completion of the online procedure on the PN Portal. No other action is required from the TRE/SFE in this case.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.12.7 (sending to the Authority); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- Malfunction of Sigebel and of the PN Portal online procedures, (paper TRF): o The examiner must send the TRF by e-mail to examinateurs.pro@aviation-civile.gouv.fr",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.12.7 (system malfunction); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Entering the check form directly engages the examiner’s legal responsibility. It is recalled: - The importance of organised, accurate and relevant note-taking during the check. - To allow sufficient time for correct entry of the check forms and effective preservation of the records (especially in the case of isolated acts outside an organised structure). - That examiners are obliged to keep the documents relating to their acts for a period of 5 years, and to submit them on request to the supervising or judicial Authority. - That any comment or dispute expressed by a candidate concerning the conduct or result of a check must be recorded by the examiner in the check report.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.13 (administrative obligations); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Examiners must keep for 5 years the files setting out the details of all practical examinations, checks and assessments of competence carried out, together with their result (a TRF must be drawn up and kept where Sigebel is used). They must submit these files and reports, and any other relevant information, at the request of the Authority in charge of:",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.2 / FCL.1030 (5-year archiving); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The documents to be kept by a TRE/SFE must in particular contain: - The date - The type - The result of the examination - The candidate’s name and contact details - Licence type and number - Type and registration of the aeroplane/simulator.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.2 (contents of the records); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In case of adjournment or Partial Pass, the TRE/SFE will take care to have the candidate sign the TRF at the end of the check. This signature attests that the candidate is fully aware of the consequences of the adjournment (partial or not) in terms of privileges. In no case does this signature (or non-signature) constitute agreement (or disagreement) with the verdict given by the examiner. If the candidate refuses to sign, the examiner must inform the Authority as soon as possible via the functional mailbox examinateurs.pro@aviation-civile.gouv.fr.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.5.4 (candidate’s signature in case of failure); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "By signing, the TRE/SFE takes responsibility for verifying the prerequisites and the conformity of the check with the Part-FCL requirements; he/she vouches for the candidate’s experience and qualifications and for the proper completion of all the required exercises.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.5.4 (responsibility of the signature); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The part of the TRF containing the items is the only document attesting the conformity of the check. By putting his/her initials against the items performed, the TRE/SFE attests that he/she has verified the candidate’s ability on the various items validating the check scenario. From an administrative or judicial point of view, any item filled in will be considered as performed and any part not filled in is considered not covered, and this engages the examiner’s responsibility.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.3 TRF (evidential value); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "TR revalidation – candidate PASSED - Drawing up the TRF - No entry on the candidate’s licence - TRF handed to the candidate (subsequent processing by the licensing office",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.4 paper TRF – revalidation passed; unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "TR revalidation – adjournment - Drawing up the TRF - Handing a copy of the TRF to the candidate - Send the TRF to examinateurs.pro@aviation-civile.gouv.fr (TRE/SFE responsibility) - Handing the TRF to the Operator if applicable - TRF archived by the TRE/SFE",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.4 paper TRF – revalidation adjourned; unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In the case of an isolated act, the examiner will be able to draw up a retraining programme and conduct the second check (with the candidate’s agreement).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.7.1 (isolated second check); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "It is the responsibility of an examiner whose authorisation is valid to notify without delay any change of situation that could affect his/her privileges (change of aeroplane type, cessation of activity, temporary or permanent suspension of medical fitness, disciplinary procedure under way, etc.). This information must reach DSAC/PN/EXA via examinateurs.pro@aviation-civile.gouv.fr.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §4.4.1 (change of situation – French examiners); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "H. Entry / remarks on the licence",
+     "items": [
+      {
+       "text": "The only TRE/SFE act that can be entered by hand by the examiner on a licence administered by France is the revalidation of the TR and the associated IR/PBN, via SIGEBEL.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §2.2 (Sigebel – only handwritten act); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- The examiner holds a TRE/SFE authorisation administered by France. - The candidate’s licence is administered by France. - The entry takes place before the calendar expiry of the TR (23:59 Paris time). - There is still room on the candidate’s licence for the entry.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §2.2 (conditions); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In the case of a revalidation, when the candidate cannot provide an adequate and valid medical certificate, the entry cannot be made on SIGEBEL and will require the use of the PN Portal online procedures. No entry on the licence is permitted in this case.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §2.2 (no medical); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "When the PN Portal online procedures are used, this administrative act is carried out by a licensing office.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.14 (licensing office); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The IR associated with the TR will be shown on the licence by the mention “IR/PBN” (except in the special case of checks in which an RNP approach could not be carried out).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §1.4 (IR/PBN); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "- The examiner will check box XIII on the front of the candidate’s licence and indicate: • YES if the PBN mention is present. • NO if the PBN mention is absent. In this case, the candidate must hold an IR/PBN training certificate issued by an ATO. He/she will indicate whether an RNP approach was carried out. If not, only the handwritten mention IR (without PBN) will be entered on the back of the licence, and the candidate will not be entitled to conduct RNP approaches.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §4.5.4 (PBN – box XIII); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
       }
      ]
     }
    ],
-   "ownAoc": []
+   "ownAoc": [
+    {
+     "title": "Assessment of competence",
+     "items": [
+      {
+       "text": "The AoCs for the issue, revalidation or renewal of TRI or SFI ratings in the applicable category of aircraft, provided he/she has exercised for at least 3 years as TRE and has followed specific training for assessment of competence in accordance with paragraph FCL.1015 (b)***.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §3.1 (AoC TRI/SFI – TRE privilege); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "AoC of a TRI/SFI by a TRE: At the time he/she conducts a TRI/SFI AoC, the TRE must have: - 3 years’ seniority in the TRE role. - The mention “TRI of TRI” entered on his/her licence. - Followed the “TRI/SFI AoC privilege” module at his/her last TRE refresher.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.8.3 (TRE prerequisites for TRI/SFI AoC); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "SFI AoC by SFE: At the time he/she conducts an SFI AoC, the SFE must have: - 3 years’ seniority in the TRE or SFE role. - Followed the “TRI/SFI AoC privilege” module at his/her last SFE refresher. The mention SFI of SFI does not exist on the licence, because the SFI does not hold this privilege.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.8.3 (SFI AoC by SFE); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "This sub-chapter deals only with the assessment of competence of TRI/SFI in the simulator on MP aeroplanes. Carrying out a TRI AoC on an aeroplane is only possible if no FFS representative of the aeroplane type concerned exists. Prior coordination with the Authority is then necessary.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.7.1 (TRI/SFI AoC – MP simulator); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Supporting check type: any simulator training session in the specific field of competence of the TRI/SFI (OPS or FCL sessions).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.7.2 (supporting check type); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Briefing the candidate: The examiner will make sure to obtain the documentation appropriate to the session and will give a briefing to the candidate before the trainees’ briefing, given by the candidate. During this briefing, the examiner: - For the issue or renewal of a TRI/SFI rating: will check the candidate’s training file (including the ATO training certificate) and all the documents attesting the prerequisites for issue or renewal of the rating (refer to sub-chapter 5.3.1.3 Verification of the candidate’s requirements and prerequisites). - For a revalidation of a TRI/SFI rating: will make sure the candidate holds a valid TRI/SFI rating and will check all the documents attesting the prerequisites for revalidation of the rating (refer to the chapter verification of the candidate’s requirements and prerequisites). - Will have the supporting elements of the session presented (type and objectives of the session, trainees, simulator, scenario) and will make sure the whole context is compatible with conducting the TRI/SFI AoC. - Will recall the main practical aspects of the running of the session, in particular that: • The candidate manages all the logistical aspects (briefing room, simulator, headsets, safety briefing, etc.). • The candidate addresses only the trainees throughout the session (including briefing and debriefing). At the trainees’ briefing, the examiner will check their documents (in particular the trainee files in the case of ATO training). - Will recall to the candidate the objectives, the framework of the assessment and his/her expectations in terms of performance (refer to the assessment criteria defined in sub-chapter 5.4.5.8.3).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.7.2 (briefing – verifications); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "In case of unsatisfactory assessment, the examiner: - Pronounces the adjournment and explains the reasons to the candidate during the debriefing. - In the case of revalidation of the TRI/SFI certificate, informs the candidate that he/she cannot exercise his/her privileges (even if the certificate’s expiry date has not been reached). - Documents the assessment report in detail in the PN Portal online procedure. - Informs the Company or the ATO of the candidate’s failure and of any training needs before presentation for a new AoC. In the case of an individual candidate, the examiner should contact the DSAC TRE coordinator to define the course of action.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.7.3 (handling failure); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The assessment of competence must be entered in the PN Portal online procedure in the examiner space; in case of proven malfunction of the online procedures, the following AoC report should be used: Assessment of competence report TRI/MP(A) - SFI(MPA) - 95FormExa",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.7.5 (entering the TRI/SFI AoC); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "TRI/SFI AoC - Preparing the check: o Go to “examiner space” o Choose “Complete an assessment of competence report - Instructor rating” o “Start” a new procedure o Pre-fill all the fields available before the check; the procedure can be resumed after the check. - After the check o Complete the procedure o Fill in the section “AMC.920 Instructor competencies and assessment” o Fill in the section “FCL. 935 Assessment of competence” o Validate the procedure (warning: no further modification of the check is possible after validating the procedure); a copy will then be sent to the candidate by e-mail. o Archive the check",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §3.2 (TRI/SFI AoC checklist); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "TRI/SFI AoC - ATPL licence, TR-MP and IR-ME valid on the type (Note 3). - In the case of revalidation, valid TRI/SFI rating. - In other cases (issue, renewal), the training certificate, received by e-mail following completion of the PN Portal online procedure by the ATO. - Write the AoC report in the PN Portal online procedure, creating a new procedure.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.3.1.4 (TRI/SFI AoC – prerequisites); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The assessment of competence of an applicant for a first TRE/SFE-MP authorisation must take place no later than 12 months (date to date) after the ATO training certificate is issued and be organised as follows:",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.4.3 (TRE/SFE AoC – issue); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The support for the AoC is necessarily a check: • FCL of type LST and ST or LPC on EASA licence(s) • EBT assessment (only for extension of TRE mandate, not applicable to issue and renewal (FCL.1025(b)(3)(i)). • In a simulator within the TRE/SFE’s privileges. • Of a minimum duration of 2 hours (FFS time).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.4.3 (support for the AoC); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The check is conducted by the applicant under the supervision of an I-TRE or, provided he/she has been expressly authorised by the Authority, of an SE qualified on the type.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.4.3 (I-TRE / SE supervision); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The assessment of competence must take place in the last year (date to date) of validity of the authorisation (before or after the refresher course) as follows: - The AoC must be carried out after the refresher course in the case of renewal. - The AoC may be carried out before or after the refresher course in the case of revalidation. - The support for the assessment of competence is necessarily a check: • FCL on EASA licence in a simulator within the TRE/SFE’s privileges. • Of a minimum duration of 2 hours (FFS time). - The check is conducted by the applicant for TRE/SFE revalidation under the supervision of an SE qualified on the type proposed by the applicant. The Authority may, at its discretion, substitute an I-TRE for the proposed SE.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.5.4 (TRE/SFE AoC – revalidation); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "The applicant must propose an SE on the form of his/her AoC application. If the Authority does not reply concerning substitution by an I-TRE, it is tacitly agreed that the proposed SE will conduct the AoC. The I-TRE/SE remains responsible for the check of the crew. If the supporting check is an LST, he/she must not have taken part in more than 25% of the crew’s practical training.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.5.4 (proposed SE, I-TRE substitution); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "Carry out the procedure “Request an assessment of competence TRE(A) MP or SFE(A) MP” on the PN Portal online procedures. This first procedure is intuitive and presents no particular difficulty. Allow: - 15 days minimum for processing an AoC request for revalidation of a TRE/SFE authorisation, - 1 month minimum for processing a request for assessment of competence for the issue or renewal of a TRE/SFE authorisation. The logistical organisation of the AoC (including the SE’s travel and accommodation) is the responsibility of the applicant or his/her employer.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §2.9.1.1 (TRE/SFE AoC request – lead times); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "AoC TRE/SFE, refer to the SE Guide (I-TRE/SE prerogatives).",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), §5.4.1 (cross-reference TRE/SFE AoC); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "4.2.3. TRE/SFE AoC report: Allows entry of the assessment of competence for the issue, revalidation and renewal of the TRE/SFE authorisation.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §4.2.3 (TRE/SFE AoC report); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      },
+      {
+       "text": "4.2.2. TRI/SFI AoC report: Allows entry of the assessment of competence for the issue, revalidation and renewal of the TRI/SFI rating.",
+       "ref": "DSAC Guide du TRE/SFE avions MP, Rév. 13 (March 2025), Annex 1 §4.2.2 (TRI/SFI AoC report); unofficial English translation of the French guide, not a quotation; retrieved 19 Nov 2026"
+      }
+     ]
+    }
+   ]
   },
   "DE": {
    "name": "Germany",
