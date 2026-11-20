@@ -1,13 +1,14 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-19h",
- "checkedDate": "2026-11-06",
+ "contentVersion": "2026-11-20a",
+ "checkedDate": "2026-11-19",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
  "intro": "Pick the licence-issuing NAA of each candidate.",
  "footnote": "Sources: EASA EDD 2026/Q4 (1 Oct 2026); UK CAA Standards Document 24(A) v6; ENAC, IAA and Trafikstyrelsen pages; EASA Part-FCL Subpart K (Oct 2026); FEM Module 5.1. The EDD is revised quarterly; the next issue is due around January. Direct form links for UK CAA, ENAC, IAA and Trafikstyrelsen updated 10 Nov 2026.",
  "order": [
   "UK",
+  "US",
   "IE",
   "IT",
   "DK",
@@ -10332,6 +10333,287 @@
     }
    ],
    "note": "Tables (A2.31 detailed standard, A3.2 tolerances, 4.1 privileges) are read from a flattened PDF. Check the document before relying on them."
+  },
+  "US": {
+   "name": "United States (FAA)",
+   "source": "FAA ATP and Type Rating for Airplane Category ACS (FAA-S-ACS-11A, Nov 2023; the FAA ACS page lists it as effective May 31, 2024, checked 20 Nov 2026); 14 CFR 61.43 (as of 29 Oct 2026); 14 CFR 121.433, 121.440, 121.441 (as of 17 Nov 2026)",
+   "sections": [
+    {
+     "title": "Notification",
+     "items": [
+      {
+       "text": "NOT CHECKED: no FAA notification period, portal or form for a foreign examiner was read. FAA Order 8900.1 and Order 8000.95 (designee policy) have not been read.",
+       "ref": "Search result, 20 Nov 2026 (not a quotation)"
+      },
+      {
+       "text": "FAA Form 8710-1, Airman Certificate and/or Rating Application; FAA Form 8060-5, Notice of Disapproval of Application; Letter of Discontinuance.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Evaluator Responsibilities and Possible Outcomes of the Test; retrieved 20 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "Conducting the check",
+     "items": [
+      {
+       "text": "▸ REPEAT, RETRAIN, RETEST AND SAME EXAMINER (this authority): each line is quoted exactly from the source named under it. FAA concepts are not EASA LST, LPC or AoC equivalents.",
+       "ref": "Heading (explanatory note, not a quotation)"
+      },
+      {
+       "text": "▸ INITIAL TYPE RATING PRACTICAL TEST (United States): If an applicant fails any area of operation, that applicant fails the practical test.",
+       "ref": "14 CFR 61.43(c) (eCFR, up to date as of 29 Oct 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ INITIAL TYPE RATING PRACTICAL TEST (United States): An applicant is not eligible for a certificate or rating sought until all the areas of operation are passed.",
+       "ref": "14 CFR 61.43(d) (eCFR, up to date as of 29 Oct 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ INITIAL TYPE RATING PRACTICAL TEST (United States): The examiner or the applicant may discontinue a practical test at any time: (1) When the applicant fails one or more of the areas of operation; or (2) Due to inclement weather conditions, aircraft airworthiness, or any other safety-of-flight concern.",
+       "ref": "14 CFR 61.43(e) (eCFR, up to date as of 29 Oct 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (United States): If a practical test is discontinued, the applicant is entitled credit for those areas of operation that were passed, but only if the applicant: (1) Passes the remainder of the practical test within the 60-day period after the date the practical test was discontinued; (2) Presents to the examiner for the retest the original notice of disapproval form or the letter of discontinuance form, as appropriate; (3) Satisfactorily accomplishes any additional training needed and obtains the appropriate instructor endorsements, if additional training is required; and (4) Presents to the examiner for the retest a properly completed and signed application.",
+       "ref": "14 CFR 61.43(f) (eCFR, up to date as of 29 Oct 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (United States): If, in the judgment of the evaluator, the applicant does not meet the standards for any Task, the applicant fails the Task and associated Area of Operation and the evaluator issues a Notice of Disapproval of Application. The evaluator lists the Area(s) of Operation in which the applicant did not meet the standard, any Area(s) of Operation not tested, and the number of practical test failures.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Unsatisfactory Performance; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ RETEST (United States): The evaluator or the applicant may end the test if the applicant fails a Task. The evaluator may continue the test only with the consent of the applicant. The applicant receives credit only for those Areas of Operation and the associated Tasks performed satisfactorily.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Unsatisfactory Performance; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ REPEAT OF A TASK (United States): If the evaluator determines that a Task is incomplete, or the outcome is uncertain, the evaluator must require the applicant to repeat that Task, or portions of that Task. This provision does not mean that instruction, practice, or the repetition of an unsatisfactory Task is permitted during the practical test.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Possible Outcomes of the Test; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ SAME EXAMINER (United States): If an applicant is entitled to credit for Areas of Operation previously passed as indicated on a Notice of Disapproval of Application or Letter of Discontinuance, evaluators shall use the ACS currently in effect on the date of the test.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Use of the ACS During a Practical Test; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ FAIL (United States): Typical areas of unsatisfactory performance and grounds for disqualification include: Any action or lack of action by the applicant that requires corrective intervention by the evaluator to maintain safe flight. Failure to use proper and effective visual scanning techniques to clear the area before and while performing maneuvers. Consistently exceeding tolerances stated in the skill elements of the Task. Failure to take prompt corrective action when tolerances are exceeded. Failure to exercise risk management.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Unsatisfactory Performance; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PART 121 PROFICIENCY CHECK (United States): If the pilot being checked fails any of the required maneuvers, the person giving the proficiency check may give additional training to the pilot during the course of the proficiency check. In addition to repeating the maneuvers failed, the person giving the proficiency check may require the pilot being checked to repeat any other maneuvers he finds are necessary to determine the pilot’s proficiency. If the pilot being checked is unable to demonstrate satisfactory performance to the person conducting the check, the certificate holder may not use him nor may he serve in operations under this part until he has satisfactorily completed a proficiency check.",
+       "ref": "14 CFR 121.441(e) (eCFR, up to date as of 17 Nov 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PART 121 PROFICIENCY CHECK (United States): It must be given by the Administrator or a check pilot.",
+       "ref": "14 CFR 121.441(b)(2) (eCFR, up to date as of 17 Nov 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PART 121 PROFICIENCY CHECK (United States): For a pilot in command—(i) A proficiency check within the preceding 12 calendar months in the aircraft type in which the person is to serve and, (ii) In addition, within the preceding 6 calendar months, either a proficiency check or the approved FFS course of training.",
+       "ref": "14 CFR 121.441(a)(1) (eCFR, up to date as of 17 Nov 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PART 121 PROFICIENCY CHECK (United States): An approved FFS or FTD may be used in the conduct of a proficiency check as provided in appendix F to this part.",
+       "ref": "14 CFR 121.441(c) (eCFR, up to date as of 17 Nov 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PART 121 LINE CHECK (United States): No certificate holder may use any person nor may any person serve as pilot in command of an airplane unless, within the preceding 12 calendar months, that person has passed a line check in which he satisfactorily performs the duties and responsibilities of a pilot in command in one of the types of airplanes he is to fly.",
+       "ref": "14 CFR 121.440(a) (eCFR, up to date as of 17 Nov 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PART 121 TRAINING (United States): For pilots, a proficiency check as provided in § 121.441 of this part may be substituted for the recurrent flight training required by this paragraph and the approved FFS course of training under § 121.409(b) of this part may be substituted for alternate periods of recurrent flight training required in that airplane, except as provided in paragraphs (d) and (e) of this section.",
+       "ref": "14 CFR 121.433(c)(2) (eCFR, up to date as of 17 Nov 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PIC PROFICIENCY CHECK, 14 CFR 61.58 (United States): In accordance with 14 CFR part 61, section 61.58(d)(1), the table below also identifies the Tasks required for a proficiency check.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Addition of a Type Rating to an Existing Pilot Certificate and Proficiency Check Requirements; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PIC PROFICIENCY CHECK, 14 CFR 61.58 (United States): NOT CHECKED: the full text of 14 CFR 61.58 and 61.31 was not available as a document and is not quoted here. Add the eCFR copies to the FAA folder to quote them.",
+       "ref": "Search result, 20 Nov 2026 (not a quotation)"
+      },
+      {
+       "text": "▸ AUTOPILOT, FLIGHT DIRECTOR AND AUTOTHROTTLE (United States): The applicant must fly at least one procedure without the use of an autopilot and the manually flown segment will begin no later than the Final Approach Fix (FAF). Manually flown precision approaches may use raw data displays or the flight director, at the discretion of the evaluator.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, VI. Instrument Procedures, Task E. Precision Approaches; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ AUTOPILOT, FLIGHT DIRECTOR AND AUTOTHROTTLE (United States): The applicant may fly at least one approach via the autopilot, if equipped, provided the DA/DH does not violate the authorized minimum altitude for autopilot operation.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, VI. Instrument Procedures, Task E. Precision Approaches; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ AUTOPILOT, FLIGHT DIRECTOR AND AUTOTHROTTLE (United States): The applicant must accomplish at least one procedure from an initial approach fix without the use of autopilot and without the assistance of radar vectors. During this Task, flying without using the autopilot does not prevent use of the yaw damper and flight director.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, VI. Instrument Procedures, Task D. Non-precision Approaches; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ ONE ENGINE INOPERATIVE ILS (United States): At least one precision approach must be flown without the use of an autopilot. The applicant should begin manually flying prior to the final approach segment. Manually flown precision approaches may use raw data displays or may be flight director assisted, at the discretion of the evaluator. The simulated powerplant failure should occur before initiating the final approach segment and continue to a landing or a missed approach procedure, at the evaluator’s discretion.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, VII. Emergency Operations, Task F. Precision Approach (Manually Flown) with a Powerplant Failure (Simulated); retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ AUTOMATION MANAGEMENT (United States): To assist in management of the aircraft during the practical test, the applicant is expected to demonstrate automation management skills by utilizing installed, available, or airborne equipment such as autopilot, avionics and systems displays, and/or a flight management system (FMS).",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, Equipment Requirements & Limitations; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ AUTOPILOT, FLIGHT DIRECTOR AND AUTOTHROTTLE (United States): SEARCHED, NOTHING FOUND: ACS-11A states no autothrottle or autothrust instruction for the raw-data ILS, the one-engine-inoperative ILS or the go-around. Its autopilot and flight-director wording is quoted above.",
+       "ref": "Search result, 20 Nov 2026 (not a quotation)"
+      },
+      {
+       "text": "▸ GO-AROUND AND MISSED APPROACH (United States): The applicant must perform two missed approaches with at least one being from a precision approach and one consisting of a published missed approach. One complete published missed approach must be accomplished. Additionally, in multiengine airplanes, a missed approach must be accomplished with one engine inoperative (or simulated inoperative).",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, VI. Instrument Procedures, Task I. Missed Approaches; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ GO-AROUND AND MISSED APPROACH (United States): Descending below the MDA or continuing a precision approach below DH/DA without the runway environment in sight constitutes unsatisfactory performance.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, VI. Instrument Procedures, Task I. Missed Approaches; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ GO-AROUND AND MISSED APPROACH (United States): The instrument conditions need not be simulated below 100 feet above the runway. This maneuver should be initiated approximately 50 feet above the runway or landing area and approximately over the runway threshold.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, III. Takeoffs and Landings, Task J. Go-Around/Rejected Landing; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PRECISION APPROACH TOLERANCES (United States): Maintain a stabilized final approach from the Final Approach Fix (FAF) to DA/DH allowing no more than ¼-scale deflection of either the vertical or lateral guidance indications and maintain the desired airspeed ±5 knots.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Task E. Precision Approaches, skill AA.VI.E.S12; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PRECISION APPROACH TOLERANCES (United States): Maintain altitude ±100 feet, selected heading ±5°, airspeed ±10 knots, and accurately track radials, courses, and bearings, prior to beginning the final approach segment.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Task E. Precision Approaches, skill AA.VI.E.S9; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ PRECISION APPROACH TOLERANCES (United States): The standard allows no more than a ¼ scale deflection of either the vertical or lateral deviation indications during the final approach.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, VI. Instrument Procedures, Vertical or Lateral Deviation Standard; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ ONE ENGINE INOPERATIVE ILS TOLERANCES (United States): Prior to beginning the final approach segment, maintain the desired altitude ±100 feet, the desired airspeed ±10 knots, the desired heading ±5°, and accurately track courses, radials, and bearings. Maintain a stabilized final approach from the final approach fix (FAF) to the DA/DH allowing no more than ¼-scale deflection of either the vertical or lateral guidance indications and maintain the desired airspeed ±5 knots.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Task F. Precision Approach (Manually Flown) with a Powerplant Failure (Simulated), skills AA.VII.F.S9 and AA.VII.F.S13; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ STEEP TURNS (United States): Establish at least a 45° bank solely by reference to instruments and make a coordinated steep turn of at least 180°, as specified by the evaluator.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Task A. Steep Turns, skill AA.IV.A.S3; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ STEEP TURNS (United States): Maintain the entry altitude ±100 feet, airspeed ±10 knots, bank ±5°, and roll out on the specified heading, ±10°.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Task A. Steep Turns, skill AA.IV.A.S6; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ STEEP TURNS (United States): Select an entry altitude that allows the Task to be completed no lower than 3,000 feet above ground level (AGL). Establish the manufacturer’s recommended airspeed; or if one is not available, an airspeed not to exceed maneuvering speed (VA).",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Task A. Steep Turns, skills AA.IV.A.S1 and AA.IV.A.S2; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ STEEP TURNS (United States): The applicant must demonstrate his or her ability to control the airplane manually without any intervention from the pilot monitoring, if applicable, or the evaluator. Use of available aircraft instrumentation is acceptable.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, IV. Inflight Maneuvers, Task A. Steep Turns; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ ENGINE FAILURE ON TAKEOFF (United States): In a multiengine airplane certificated with V1, VR, or V2 speeds, a simulated failure of the most critical powerplant should occur at a point: after V1 and prior to V2, if appropriate under the prevailing conditions in the opinion of the evaluator; or as close as possible after V1 when V1 and V2 or V1 and VR are identical.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, VII. Emergency Operations, Task B. Powerplant Failure during Takeoff; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ STALLS (United States): When testing Tasks A, B, and C, one stall must be induced while in a turn with a bank angle of 15-30 degrees; and, one stall should be induced by commands to the autopilot, if installed.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, V. Stall Prevention; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ SIMULATOR (United States): Applicants for a pilot certificate or rating can accomplish all or part of a practical test or proficiency check in an FSTD qualified under 14 CFR part 60, which includes full flight simulators (FFS) or flight training devices (FTD), only when conducted within an FAA-approved training program.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, Use of Flight Simulation Training Devices (FSTD); retrieved 20 Nov 2026"
+      },
+      {
+       "text": "▸ CREW ROLE OF THE EVALUATOR (United States): If occupying a duty position on an aircraft that requires two or more crewmembers, the evaluator must fulfill the duties of that position. Moreover, when occupying a required duty position, the evaluator must perform CRM functions as briefed and requested by the applicant except during the accomplishment of steep turns, approach to stalls, and recovery from unusual attitudes.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 2, Aeronautical Decision-Making, Risk Management, Crew Resource Management, and Single-Pilot Resource Management; retrieved 20 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "Qualifications",
+     "items": [
+      {
+       "text": "An evaluator includes the following: Aviation Safety Inspector (ASI); Pilot examiner (other than administrative pilot examiners); Training center evaluator (TCE); Chief instructor, assistant chief instructor, or check instructor of pilot school holding examining authority; or Instrument Flight Instructor (CFII) conducting an instrument proficiency check (IPC).",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Evaluator Responsibilities; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "The evaluator who conducts the practical test verifies the applicant has met the aeronautical experience requirements specified for a certificate or rating before administering the test.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Evaluator Responsibilities; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "Prior to and throughout the evaluation, the evaluator ensures the applicant meets the FAA Aviation English Language Standard (AELS).",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Evaluator Responsibilities; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "An evaluator that conducts ATP certificate evaluations in accordance with an approved 91K, part 121, or part 135 training and checking program is not required to use this document.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Satisfactory Performance; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "It must be given by the Administrator or a check pilot.",
+       "ref": "14 CFR 121.441(b)(2) (eCFR, up to date as of 17 Nov 2026), retrieved 20 Nov 2026"
+      },
+      {
+       "text": "NOT CHECKED: who may conduct a check for a foreign applicant, designee authorisation limits (FAA Order 8000.95) and check airman qualification rules (14 CFR 121.411) were not read.",
+       "ref": "Search result, 20 Nov 2026 (not a quotation)"
+      }
+     ]
+    },
+    {
+     "title": "What to send before",
+     "items": [
+      {
+       "text": "The evaluator must develop a plan of action (POA) that includes all required Areas of Operation and Tasks and administer each practical test in English.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Evaluator Responsibilities; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "Each applicant must give a briefing before each takeoff. If the operator or aircraft manufacturer has not specified a briefing, the briefing must cover the items appropriate for the conditions, such as: departure runway, departure procedure, power settings, speeds, abnormal or emergency procedures prior to or after reaching decision speed (i.e., V1 or VMC), emergency return intentions, and what the applicant expects other crewmembers to do during the takeoff/departure, if applicable.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, II. Preflight Procedures, Task E. Before Takeoff Checks; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "The aircraft must meet the requirements as outlined in 14 CFR part 61, section 61.45.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 3, Equipment Requirements & Limitations; retrieved 20 Nov 2026"
+      }
+     ]
+    },
+    {
+     "title": "What to send afterwards",
+     "items": [
+      {
+       "text": "A practical test has three possible outcomes: (1) Temporary Airman Certificate (satisfactory), (2) Notice of Disapproval of Application (unsatisfactory), or (3) Letter of Discontinuance.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Possible Outcomes of the Test; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "If discontinuing a practical test for reasons other than unsatisfactory performance (e.g., equipment failure, weather, illness), the evaluator must return all test paperwork to the applicant. The evaluator must prepare, sign, and issue a Letter of Discontinuance that lists those Areas of Operation the applicant successfully completed and the time period remaining to complete the test to receive credit for previously completed Areas of Operation.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Letter of Discontinuance; retrieved 20 Nov 2026"
+      },
+      {
+       "text": "If the applicant’s ability to meet the FAA AELS comes into question after the practical test begins, an evaluator who other than an ASI will discontinue the practical test and check the box, “Referred to FSO for Aviation English Language Standard Determination,” on the application. The evaluator will also issue FAA Form 8060-5, Notice of Disapproval of Application, with the comment “Does Not Demonstrate FAA AELS” in addition to any unsatisfactory Task(s).",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Evaluator Responsibilities (English language standard); retrieved 20 Nov 2026"
+      },
+      {
+       "text": "Satisfactory performance will result in the issuance of a temporary certificate.",
+       "ref": "FAA Airline Transport Pilot and Type Rating for Airplane Category ACS (FAA-S-ACS-11A), November 2023, Appendix 1, Satisfactory Performance; retrieved 20 Nov 2026"
+      }
+     ]
+    }
+   ],
+   "aoc": [
+    {
+     "title": "Assessment of competence",
+     "items": [
+      {
+       "text": "NOT CHECKED: no FAA assessment of competence for examiners (FAA Order 8900.1 and Order 8000.95) has been read.",
+       "ref": "Search result, 20 Nov 2026 (not a quotation)"
+      }
+     ]
+    }
+   ],
+   "forms": [
+    {
+     "title": "FAA Airman Certification Standards (ATP and Type Rating, Airplane)",
+     "url": "https://www.faa.gov/training_testing/testing/acs"
+    },
+    {
+     "title": "14 CFR Part 61 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61"
+    },
+    {
+     "title": "14 CFR Part 121 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-121"
+    },
+    {
+     "title": "14 CFR Part 142 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-H/part-142"
+    },
+    {
+     "title": "FAA Dynamic Regulatory System (Order 8900.1, Order 8000.95)",
+     "url": "https://drs.faa.gov"
+    }
+   ],
+   "note": "Examiner’s note (not FAA wording): the FAA initial type rating practical test, the 14 CFR 61.58 proficiency check and the Part 121 checks are separate; none of them is an EASA LST, LPC or AoC. Part 142 and 14 CFR 61.31, 61.58 have not been read as documents. Confirm every item against the current FAA publication."
   }
  },
  "commonQuoted": [
