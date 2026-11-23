@@ -1,0 +1,163 @@
+{
+ "note": "Internal check log for the daily currency routine. Not read by the app.",
+ "core": {
+  "EASA EDD": {
+   "held": "2026/Q4 (01.10.2026)",
+   "lastChecked": "2026-11-23",
+   "status": "unchanged"
+  },
+  "UK CAA Doc 24(A)": {
+   "held": "Version 6 (28-Nov-2024)",
+   "lastChecked": "2026-11-23",
+   "status": "unchanged"
+  },
+  "FAA ATP ACS": {
+   "held": "FAA-S-ACS-11A",
+   "lastChecked": "2026-11-23",
+   "status": "unchanged"
+  },
+  "14 CFR 61.43": {
+   "held": "Amdt 61-157 (Nov 21 2024)",
+   "lastChecked": "2026-11-23",
+   "status": "unchanged"
+  },
+  "14 CFR 121.424/.427/.433/.440/.441": {
+   "lastChecked": null,
+   "status": "blocked: ecfr.gov refuses automated fetch (robots_disallowed); try Federal Register / govinfo"
+  },
+  "14 CFR Part 142": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "EASA Part-FCL Subpart K, AMC/GM, FEM Module 5.1 vs Dropbox copies": {
+   "lastChecked": null,
+   "status": "not checked"
+  }
+ },
+ "naa": {
+  "IE": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "IT": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "DK": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "AT": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "BE": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "BG": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "HR": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "CY": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "CZ": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "EE": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "FI": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "FR": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "DE": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "GR": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "HU": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "IS": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "LI": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "LV": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "LT": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "LU": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "MT": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "NL": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "NO": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "PL": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "PT": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "RO": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "SK": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "SI": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "ES": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "SE": {
+   "lastChecked": null,
+   "status": "not checked"
+  },
+  "CH": {
+   "lastChecked": null,
+   "status": "not checked"
+  }
+ }
+}
