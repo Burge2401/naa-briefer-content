@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>NAA Check Briefer</title>
+<meta name="theme-color" content="#0f1b2d">
+<style>
+:root{--bg:#f3f5f8;--panel:#fff;--ink:#0f1b2d;--muted:#5b6678;--line:#d8dee8;--acc:#0b7fa6;--mag:#b0168f;--chip:#e9eef5;--warn:#a45a00;--warnbg:#fff4e2}
+@media(prefers-color-scheme:dark){:root{--bg:#0b1220;--panel:#121b2c;--ink:#e6ecf5;--muted:#9aa6b8;--line:#26324a;--acc:#4cc9f0;--mag:#ff5fd2;--chip:#1b263b;--warn:#ffb454;--warnbg:#2a2113}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 56px;display:grid;gap:16px}
+h1{font-size:1.7rem;margin:0}h2{font-size:1.3rem;margin:0}h3{font-size:.85rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0}
+.sub,.src,.foot{color:var(--muted);font-size:.85rem;margin:0}
+.panel,.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:12px;min-width:0}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font:inherit;font-size:.95rem;border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:999px;padding:8px 14px;cursor:pointer;min-height:40px}
+.chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:#fff}
+.btn{font:inherit;font-weight:600;background:transparent;color:var(--mag);border:1px solid var(--mag);border-radius:8px;padding:8px 14px;cursor:pointer;min-height:40px}
+.sec{display:grid;gap:4px}.sec ul{margin:0;padding-left:1.2em}.sec li{margin:4px 0}
+.ref{color:var(--muted);font-size:.8em}
+.note,.err{background:var(--warnbg);border:1px solid var(--warn);border-radius:8px;padding:10px 12px;font-size:.92rem}
+a{color:var(--acc);overflow-wrap:anywhere}
+details{border-top:1px solid var(--line);padding-top:8px}summary{cursor:pointer;font-weight:600}
+.row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.empty{color:var(--muted);text-align:center;padding:24px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div><h1>NAA Check Briefer</h1><p class="sub" id="intro">Loading the latest content…</p></div>
+  <div id="status" class="err" hidden></div>
+  <section class="panel" aria-labelledby="pick">
+    <h2 id="pick">Which NAAs are you testing today?</h2>
+    <div class="chips" id="chips"></div>
+    <div class="row"><button class="btn" id="clear" type="button">Clear</button><span class="src" id="ver"></span></div>
+  </section>
+  <div id="out" aria-live="polite"></div>
+  <div id="common"></div>
+  <p class="foot" id="foot"></p>
+  <p class="foot" id="disc"></p>
+</div>
+<script>
+const URL_="https://raw.githubusercontent.com/Burge2401/naa-briefer-content/main/content.json";
+const $=id=>document.getElementById(id);
+function el(tag,cls,text){const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e}
+function safeUrl(u){return /^https?:\/\//i.test(u||"")?u:null}
+function items(list){const ul=el("ul");for(const it of list||[]){const li=el("li");
+  if(typeof it==="string")li.textContent=it;else{li.append(document.createTextNode(it.text||""));if(it.ref){li.append(el("div","ref",it.ref))}}ul.append(li)}return ul}
+function section(title,list){const s=el("div","sec");s.append(el("h3",null,title),items(list));return s}
+let C=null,sel=[];try{sel=JSON.parse(localStorage.getItem("naaSel")||"[]")}catch(e){}
+function save(){try{localStorage.setItem("naaSel",JSON.stringify(sel))}catch(e){}}
+function chips(){const box=$("chips");box.textContent="";for(const k of C.order){const q=C.quoted[k];if(!q)continue;
+  const b=el("button","chip",q.name||k);b.type="button";b.setAttribute("aria-pressed",sel.includes(k));
+  b.onclick=()=>{sel=sel.includes(k)?sel.filter(x=>x!==k):[...sel,k];save();chips();render()};box.append(b)}}
+function render(){const out=$("out");out.textContent="";
+  if(!sel.length){out.append(el("div","empty","Select one or more NAAs above."));return}
+  for(const k of sel){const q=C.quoted[k];if(!q)continue;
+    const card=el("article","card");card.style.marginBottom="16px";
+    card.append(el("h2",null,q.name||k),el("p","src",q.source||""));
+    for(const s of q.sections||[])card.append(section(s.title,s.items));
+    if(q.aoc&&q.aoc.length){const d=el("details");d.append(el("summary",null,"Assessment of competence (AoC)"));for(const s of q.aoc)d.append(section(s.title,s.items));card.append(d)}
+    if(q.forms&&q.forms.length){const s=el("div","sec");s.append(el("h3",null,"Forms and documents"));const ul=el("ul");
+      for(const f of q.forms){const li=el("li");const u=safeUrl(f.url);if(u){const a=el("a",null,f.title||u);a.href=u;a.target="_blank";a.rel="noopener";li.append(a)}else li.textContent=f.title||"";ul.append(li)}
+      s.append(ul);card.append(s)}
+    if(q.note)card.append(el("div","note",q.note));
+    out.append(card)}}
+function common(){const box=$("common");box.textContent="";const p=el("section","panel");
+  p.append(el("h2",null,"EASA rules that apply for every NAA"));
+  if(C.common&&C.common.failReasons){const s=el("div","sec");s.append(el("h3",null,"Fail: any one of these (AMC2 FCL.1015(o)(2))"));const ol=el("ol");for(const r of C.common.failReasons)ol.append(el("li",null,r));s.append(ol);if(C.common.passNote)s.append(el("p","src",C.common.passNote));p.append(s)}
+  for(const s of (C.common&&C.common.sections)||[])p.append(section(s.title,s.items));
+  for(const s of C.commonQuoted||[])p.append(section(s.title,s.items));
+  if(C.common&&C.common.source)p.append(el("p","src",C.common.source));box.append(p)}
+function show(c,stale){C=c;$("intro").textContent=c.intro||"";$("ver").textContent="Content "+c.contentVersion+" · checked "+c.checkedDate+" · EDD "+c.eddIssue;
+  $("foot").textContent=c.footnote||"";$("disc").textContent=c.disclaimer||"";
+  const st=$("status");if(stale){st.hidden=false;st.textContent="Offline: showing the last copy saved on this device (content "+c.contentVersion+")."}else st.hidden=true;
+  sel=sel.filter(k=>c.quoted[k]);if(!sel.length)sel=[];chips();render();common()}
+$("clear").onclick=()=>{sel=[];save();chips();render()};
+fetch(URL_+"?x="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(c=>{try{localStorage.setItem("naaContent",JSON.stringify(c))}catch(e){}show(c,false)})
+.catch(()=>{let c=null;try{c=JSON.parse(localStorage.getItem("naaContent")||"null")}catch(e){}
+  if(c)show(c,true);else{$("intro").textContent="";const st=$("status");st.hidden=false;st.textContent="Could not load the content. Check your connection and reload."}});
+</script>
+</body>
+</html>
