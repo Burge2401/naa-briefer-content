@@ -4,30 +4,34 @@
   "EASA EDD": {
    "held": "2026/Q4 (01.10.2026)",
    "lastChecked": "2026-11-23",
-   "status": "unchanged"
+   "status": "2026-11-24: NOT CHECKED - fetch permission unanswered (PROVENANCE_REQUIRED), no page read; held version unchanged in app; lastChecked left at previous successful check",
+   "lastAttempt": "2026-11-24"
   },
   "UK CAA Doc 24(A)": {
    "held": "Version 6 (28-Nov-2024)",
    "lastChecked": "2026-11-23",
-   "status": "unchanged"
+   "status": "2026-11-24: NOT CHECKED - fetch permission unanswered (PROVENANCE_REQUIRED), no page read; held version unchanged in app; lastChecked left at previous successful check",
+   "lastAttempt": "2026-11-24"
   },
   "FAA ATP ACS": {
    "held": "FAA-S-ACS-11A",
    "lastChecked": "2026-11-23",
-   "status": "unchanged"
+   "status": "2026-11-24: NOT CHECKED - fetch permission unanswered (PROVENANCE_REQUIRED), no page read; held version unchanged in app; lastChecked left at previous successful check",
+   "lastAttempt": "2026-11-24"
   },
   "14 CFR 61.43": {
    "held": "Amdt 61-157 (Nov 21 2024)",
    "lastChecked": "2026-11-23",
-   "status": "unchanged"
+   "status": "2026-11-24: NOT CHECKED - fetch permission unanswered (PROVENANCE_REQUIRED), no page read; held version unchanged in app; lastChecked left at previous successful check",
+   "lastAttempt": "2026-11-24"
   },
   "14 CFR 121.424/.427/.433/.440/.441": {
    "lastChecked": null,
-   "status": "blocked: ecfr.gov refuses automated fetch (robots_disallowed); try Federal Register / govinfo"
+   "status": "blocked: ecfr.gov refuses automated fetch (robots_disallowed); try Federal Register / govinfo; 2026-11-24 Federal Register also not fetchable (permission unanswered)"
   },
   "14 CFR Part 142": {
    "lastChecked": null,
-   "status": "not checked"
+   "status": "not checked; 2026-11-24 Federal Register not fetchable (permission unanswered)"
   },
   "EASA Part-FCL Subpart K, AMC/GM, FEM Module 5.1 vs Dropbox copies": {
    "lastChecked": null,
