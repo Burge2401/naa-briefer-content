@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-23a",
- "checkedDate": "2026-11-23",
+ "contentVersion": "2026-11-26a",
+ "checkedDate": "2026-11-26",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
  "intro": "Pick the licence-issuing NAA of each candidate.",

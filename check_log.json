@@ -3,35 +3,37 @@
  "core": {
   "EASA EDD": {
    "held": "2026/Q4 (01.10.2026)",
-   "lastChecked": "2026-11-23",
-   "status": "2026-11-25: NOT CHECKED - fetch permission unanswered (PROVENANCE_REQUIRED), no page read; held version unchanged in app; lastChecked left at previous successful check",
-   "lastAttempt": "2026-11-25"
+   "lastChecked": "2026-11-26",
+   "status": "2026-11-26: unchanged - EASA Examiner Differences Document page (https://www.easa.europa.eu/en/examiner-differences-document) shows 2026Q4 as current; download file Examiner_Differences_Document_version_2026Q4_0.pdf not opened (downloads/16659 fetch permission unanswered)",
+   "lastAttempt": "2026-11-26"
   },
   "UK CAA Doc 24(A)": {
    "held": "Version 6 (28-Nov-2024)",
    "lastChecked": "2026-11-23",
-   "status": "2026-11-25: NOT CHECKED - fetch permission unanswered (PROVENANCE_REQUIRED), no page read; held version unchanged in app; lastChecked left at previous successful check",
-   "lastAttempt": "2026-11-25"
+   "status": "2026-11-26: NOT CHECKED - document page fetch permission unanswered; CAA type rating examiner page read but gives no version or date; held version unchanged in app",
+   "lastAttempt": "2026-11-26"
   },
   "FAA ATP ACS": {
    "held": "FAA-S-ACS-11A",
    "lastChecked": "2026-11-23",
-   "status": "2026-11-25: NOT CHECKED - fetch permission unanswered (PROVENANCE_REQUIRED), no page read; held version unchanged in app; lastChecked left at previous successful check",
-   "lastAttempt": "2026-11-25"
+   "status": "2026-11-26: partial, NOT CHECKED on listing page (fetch permission unanswered); faa.gov file atp_airplane_acs_11.pdf is FAA-S-ACS-11A November 2023; no newer ATP ACS seen in search or on FAA recently published rules page (last updated 24 Nov 2026)",
+   "lastAttempt": "2026-11-26"
   },
   "14 CFR 61.43": {
    "held": "Amdt 61-157 (Nov 21 2024)",
    "lastChecked": "2026-11-23",
-   "status": "2026-11-25: NOT CHECKED - fetch permission unanswered (PROVENANCE_REQUIRED), no page read; held version unchanged in app; lastChecked left at previous successful check",
-   "lastAttempt": "2026-11-25"
+   "status": "2026-11-26: partial, section page NOT CHECKED (fetch permission unanswered); FAA final rules 2026-18776 (Amdt 61-161, 14 Sep 2026, amends 61.14 cross-references) and 2026-23786 (Amdt 61-162, 23 Nov 2026, Part 61 instructions 30-33) do not amend the text of 61.43",
+   "lastAttempt": "2026-11-26"
   },
   "14 CFR 121.424/.427/.433/.440/.441": {
    "lastChecked": null,
-   "status": "blocked: ecfr.gov refuses automated fetch (robots_disallowed); try Federal Register / govinfo; 2026-11-24 Federal Register also not fetchable (permission unanswered); 2026-11-25 Federal Register/eCFR again not fetchable (PROVENANCE_REQUIRED)"
+   "status": "2026-11-26: blocked: consolidated text not read (ecfr.gov refuses automated fetch); federalregister.gov document 2026-23786 refused (robots_disallowed), read on govinfo instead: no Part 121 amendment; no related title on FAA recently published rules page since 1 Sep 2026",
+   "lastAttempt": "2026-11-26"
   },
   "14 CFR Part 142": {
    "lastChecked": null,
-   "status": "not checked; 2026-11-24 Federal Register not fetchable (permission unanswered); 2026-11-25 Federal Register/eCFR again not fetchable (PROVENANCE_REQUIRED)"
+   "status": "2026-11-26: blocked: consolidated text not read (ecfr.gov refuses automated fetch); FAA rule 2026-23786 (govinfo) does not amend Part 142; no related title on FAA recently published rules page since 1 Sep 2026",
+   "lastAttempt": "2026-11-26"
   },
   "EASA Part-FCL Subpart K, AMC/GM, FEM Module 5.1 vs Dropbox copies": {
    "lastChecked": null,
@@ -40,28 +42,34 @@
  },
  "naa": {
   "IE": {
-   "lastChecked": null,
-   "status": "not checked"
+   "lastChecked": "2026-11-26",
+   "status": "2026-11-26: partial (periods and forms not checked): examiner, notification of test and briefing document pages load, no change seen; PLAM 004 PDF not readable (URL too long for fetch tool), so Rev 02, notice periods, report address and form editions not confirmed",
+   "lastAttempt": "2026-11-26"
   },
   "IT": {
-   "lastChecked": null,
-   "status": "not checked"
+   "lastChecked": "2026-11-26",
+   "status": "2026-11-26: changed, draft awaiting approval: ENAC EDD web page (dated 01/09/2025) gives personale.volo@enac.gov.it for initial examiner AoC applications, app (EDD 2026/Q4) gives istruttoriesaminatori@enac.gov.it; portal, fallback email, 1/7/15 day periods and RPT 01 Ed. 2025.01 agree; examiners forms page, CKL 01 and notification template edition not checked",
+   "lastAttempt": "2026-11-26"
   },
   "DK": {
    "lastChecked": null,
-   "status": "not checked"
+   "status": "2026-11-26: not checked: examiner.dk pages and FSTD guidelines PDF fetch permission unanswered; only 2023-2025 examiner seminar slides read (no notice periods, addresses or retest rules in them)",
+   "lastAttempt": "2026-11-26"
   },
   "AT": {
    "lastChecked": null,
-   "status": "not checked"
+   "status": "2026-11-26: not checked: flight examiners page, forms page and form 131 fetch permission unanswered; two form 045 PDFs not fetched (ROBOTS_UNREACHABLE); only a fee notice page and a 2014 Version 4.0 manual (older than held 6.0) read",
+   "lastAttempt": "2026-11-26"
   },
   "BE": {
    "lastChecked": null,
-   "status": "not checked"
+   "status": "2026-11-26: blocked: CAPTCHA on mobiliteit.d8.pr.belgium.be and on a mobilit.belgium.be document; other held pages fetch permission unanswered",
+   "lastAttempt": "2026-11-26"
   },
   "BG": {
-   "lastChecked": null,
-   "status": "not checked"
+   "lastChecked": "2026-11-26",
+   "status": "2026-11-26: partial (web pages and forms not checked): Examiners Handbook Issue 2 Rev 1 (10-MAY-13) link loads, same version as held; caa.bg category pages fetch permission unanswered; held ST ATPL-MP Issue 05 form not opened",
+   "lastAttempt": "2026-11-26"
   },
   "HR": {
    "lastChecked": null,
