@@ -3,37 +3,37 @@
  "core": {
   "EASA EDD": {
    "held": "2026/Q4 (01.10.2026)",
-   "lastChecked": "2026-11-26",
-   "status": "2026-11-26: unchanged - EASA Examiner Differences Document page (https://www.easa.europa.eu/en/examiner-differences-document) shows 2026Q4 as current; download file Examiner_Differences_Document_version_2026Q4_0.pdf not opened (downloads/16659 fetch permission unanswered)",
-   "lastAttempt": "2026-11-26"
+   "lastChecked": "2026-11-27",
+   "status": "2026-11-27: unchanged - download PDF read: Version 2026/Q4, Date 01.10.2026",
+   "lastAttempt": "2026-11-27"
   },
   "UK CAA Doc 24(A)": {
    "held": "Version 6 (28-Nov-2024)",
-   "lastChecked": "2026-11-23",
-   "status": "2026-11-26: NOT CHECKED - document page fetch permission unanswered; CAA type rating examiner page read but gives no version or date; held version unchanged in app",
-   "lastAttempt": "2026-11-26"
+   "lastChecked": "2026-11-27",
+   "status": "2026-11-27: unchanged - CAA publication page shows Current, Version 6, 28-Nov-2024; PDF download/23517 reads Version 6",
+   "lastAttempt": "2026-11-27"
   },
   "FAA ATP ACS": {
    "held": "FAA-S-ACS-11A",
    "lastChecked": "2026-11-23",
-   "status": "2026-11-26: partial, NOT CHECKED on listing page (fetch permission unanswered); faa.gov file atp_airplane_acs_11.pdf is FAA-S-ACS-11A November 2023; no newer ATP ACS seen in search or on FAA recently published rules page (last updated 24 Nov 2026)",
-   "lastAttempt": "2026-11-26"
+   "status": "2026-11-27: partial, NOT CHECKED on listing page (fetch permission unanswered); FAA recently published rules page (last updated 24 Nov 2026) lists no new ACS rule",
+   "lastAttempt": "2026-11-27"
   },
   "14 CFR 61.43": {
    "held": "Amdt 61-157 (Nov 21 2024)",
    "lastChecked": "2026-11-23",
-   "status": "2026-11-26: partial, section page NOT CHECKED (fetch permission unanswered); FAA final rules 2026-18776 (Amdt 61-161, 14 Sep 2026, amends 61.14 cross-references) and 2026-23786 (Amdt 61-162, 23 Nov 2026, Part 61 instructions 30-33) do not amend the text of 61.43",
-   "lastAttempt": "2026-11-26"
+   "status": "2026-11-27: partial, section page NOT CHECKED (fetch permission unanswered); only FAA final rule listed since 20 Nov is 2026-23786, assessed 26 Nov as not amending 61.43 text",
+   "lastAttempt": "2026-11-27"
   },
   "14 CFR 121.424/.427/.433/.440/.441": {
    "lastChecked": null,
-   "status": "2026-11-26: blocked: consolidated text not read (ecfr.gov refuses automated fetch); federalregister.gov document 2026-23786 refused (robots_disallowed), read on govinfo instead: no Part 121 amendment; no related title on FAA recently published rules page since 1 Sep 2026",
-   "lastAttempt": "2026-11-26"
+   "status": "2026-11-27: blocked: consolidated text not read (ecfr.gov refuses automated fetch, not attempted again); no new related rule on FAA recently published rules page (updated 24 Nov 2026); govinfo 2026-23962 (25 Nov) is not an FAA rule",
+   "lastAttempt": "2026-11-27"
   },
   "14 CFR Part 142": {
    "lastChecked": null,
-   "status": "2026-11-26: blocked: consolidated text not read (ecfr.gov refuses automated fetch); FAA rule 2026-23786 (govinfo) does not amend Part 142; no related title on FAA recently published rules page since 1 Sep 2026",
-   "lastAttempt": "2026-11-26"
+   "status": "2026-11-27: blocked: consolidated text not read (ecfr.gov refuses automated fetch, not attempted again); no new related rule on FAA recently published rules page (updated 24 Nov 2026)",
+   "lastAttempt": "2026-11-27"
   },
   "EASA Part-FCL Subpart K, AMC/GM, FEM Module 5.1 vs Dropbox copies": {
    "lastChecked": null,
@@ -72,28 +72,34 @@
    "lastAttempt": "2026-11-26"
   },
   "HR": {
-   "lastChecked": null,
-   "status": "not checked"
+   "lastChecked": "2026-11-27",
+   "status": "2026-11-27: partial (forms and periods not checked on NAA site): examiners page loads and gives inoexaminers@ccaa.hr; forms page fetch permission unanswered; EDD 3.4 agrees with app",
+   "lastAttempt": "2026-11-27"
   },
   "CY": {
    "lastChecked": null,
-   "status": "not checked"
+   "status": "2026-11-27: not checked: DCA page fetch permission unanswered; EDD 3.5 read and agrees with app",
+   "lastAttempt": "2026-11-27"
   },
   "CZ": {
-   "lastChecked": null,
-   "status": "not checked"
+   "lastChecked": "2026-11-27",
+   "status": "2026-11-27: changed, draft awaiting approval: CAA examiners page (published 21 Oct 2026) gives podatelna@caa.gov.cz for temporary permission copies and contact, app/EDD gives podatelna@caa.cz for notification; Czech-language page fetch permission unanswered, portal manual not read",
+   "lastAttempt": "2026-11-27"
   },
   "EE": {
-   "lastChecked": null,
-   "status": "not checked"
+   "lastChecked": "2026-11-27",
+   "status": "2026-11-27: partial (forms page not read): designation application OT_243_K1_V16_r4 (05.12.2025) loads, address agrees; forms page fetch permission unanswered; EDD 3.8 agrees with app",
+   "lastAttempt": "2026-11-27"
   },
   "FI": {
-   "lastChecked": null,
-   "status": "not checked"
+   "lastChecked": "2026-11-27",
+   "status": "2026-11-27: changed, draft awaiting approval: designation page (24 Feb 2026) shows e-form LU3174x only, not kirjaamo@traficom.fi, with 14 day processing and test after confirmation; designation PDF and notices page fetch permission unanswered",
+   "lastAttempt": "2026-11-27"
   },
   "FR": {
-   "lastChecked": null,
-   "status": "not checked"
+   "lastChecked": "2026-11-27",
+   "status": "2026-11-27: changed, draft awaiting approval: Procedures for Examiners v2.0 (01/10/2026) 5 day report deadline and change of examiner rules not in app; notice periods and address agree; non-French examiner list dated 26/11/2026; Revision 13 TRE guide link not checked",
+   "lastAttempt": "2026-11-27"
   },
   "DE": {
    "lastChecked": null,
