@@ -1,11 +1,11 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-28a",
+ "contentVersion": "2026-11-28c",
  "checkedDate": "2026-11-28",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
  "intro": "Pick the licence-issuing NAA of each candidate.",
- "footnote": "Sources: EASA EDD 2026/Q4 (1 Oct 2026); UK CAA Standards Document 24(A) v6; ENAC, IAA and Trafikstyrelsen pages; EASA Part-FCL Subpart K (Oct 2026); FEM Module 5.1. The EDD is revised quarterly; the next issue is due around January. Direct form links for UK CAA, ENAC, IAA and Trafikstyrelsen updated 10 Nov 2026.",
+ "footnote": "Sources: EASA EDD 2026/Q4 (1 Oct 2026); UK CAA Standards Document 24(A) v6; ENAC, IAA, Trafikstyrelsen, LBA and CAA Latvia pages; EASA Part-FCL Subpart K (Oct 2026); FEM Module 5.1. The EDD is revised quarterly; the next issue is due around January. Direct form links for UK CAA, ENAC, IAA and Trafikstyrelsen updated 10 Nov 2026.",
  "order": [
   "UK",
   "US",
@@ -2442,14 +2442,26 @@
   },
   "DE": {
    "name": "Germany",
-   "source": "EDD 2026/Q4 §3.11",
+   "source": "LBA web pages (retrieved 28 Nov 2026); EDD 2026/Q4 §3.11",
    "sections": [
     {
      "title": "Notification",
      "items": [
       {
+       "text": "▸ TEST NOTIFICATION (Germany): Prior to conduct a Skill Test on a German licensed pilot whose licence has been issued by the Luftfahrt-Bundesamt … a foreign examiner has to send a Test Notification to our email address testnotifications@lba.de in time",
+       "ref": "LBA web page “Familiarization procedures for Foreign Examiners in accordance with FCL.1015 c)”, English text, no page date shown (quoted passages, “…” = cut); retrieved 28 Nov 2026"
+      },
+      {
+       "text": "▸ NOT AFFECTED (Germany): (Class or Type Rating Skill Tests, Proficiency Checks and Assessments of Competence are not affected)",
+       "ref": "LBA web page “Foreign Examiners” (English), no page date shown; retrieved 28 Nov 2026"
+      },
+      {
+       "text": "▸ NO APPROVAL TO AWAIT (Germany): The receipt of the Test Notification will not be acknowledged by the LBA (Luftfahrt-Bundesamt) … and there is no need to await an approval for conducting the test … Proficiency Checks or Assessments of Competence are not affected",
+       "ref": "LBA web page “Familiarization procedures for Foreign Examiners in accordance with FCL.1015 c)”, English text, no page date shown (quoted passages, “…” = cut); retrieved 28 Nov 2026"
+      },
+      {
        "text": "If the applicant for a PPL(As), CPL, MPL, ATPL or Instrument  Rating holds already a license issued by the Luftfahrt-Bundesamt (LBA) or will select the LBA as competent authority foreign examiners have to notify every intended Skill Test with the form Test Notification at least 1 week in advance (Notifications for Licence proficiency checks or Assessments of competence are not required).",
-       "ref": null
+       "ref": "EASA EDD 2026/Q4 §3.11. The LBA web pages take priority: they say “in time” and give no number of days."
       },
       {
        "text": "The receipt of the test notification will not be acknowledged by the LBA, and there is no need for an individual approval for conducting the test.",
@@ -2531,6 +2543,10 @@
      "title": "What to send before",
      "items": [
       {
+       "text": "▸ TEST NOTIFICATION FORM (Germany): To be send to: Luftfahrt-Bundesamt … Fax: +49 531 2355 4395 … testnotifications@lba.de",
+       "ref": "LBA form “Test Notification”, rev.4, 03.06.2025, box 0 (quoted passages, “…” = cut; source wording kept, including “send”); stored copy read 28 Nov 2026, not compared with the LBA website that day"
+      },
+      {
        "text": "Before taking the practical examination and issuing the “Temporary Permission to Exercise Privileges” form, the examiner must ensure that all other requirements for the registration of the rating have been met.",
        "ref": null
       },
@@ -2606,7 +2622,7 @@
     },
     {
      "title": "Test Notification (form named in 4.3.1; link text not printed)",
-     "url": ""
+     "url": "https://www.lba.de/SharedDocs/Downloads/DE/L/L3/06_01_Anzeige_praktische_Pruefung.html?nn=621832"
     },
     {
      "title": "The relevant form and details can be found here. (Temporary Permission to Exercise Privileges; URL not in extract)",
@@ -2615,6 +2631,14 @@
     {
      "title": "Forms page (link as printed in EASA EDD 2026/Q4, section 5)",
      "url": "https://www.lba.de/DE/Luftfahrtpersonal/Pruefer/Formulare/01_Formulare_Berichte_des_Pruefers_E.html?nn=2560324"
+    },
+    {
+     "title": "LBA Foreign Examiners page (English)",
+     "url": "https://www.lba.de/EN/AviationPersonnel/Foreign_Examiners/Foreign_Examiners_node.html"
+    },
+    {
+     "title": "LBA familiarization procedures for foreign examiners",
+     "url": "https://www.lba.de/DE/Luftfahrtpersonal/Pruefer/02_01_Entfall_Examiner_Briefing_1015_c.html"
     }
    ],
    "note": "AoC columns are read from a flattened PDF table. Check EDD §4.1 before relying on them."
@@ -3768,18 +3792,30 @@
   },
   "LV": {
    "name": "Latvia",
-   "source": "EDD 2026/Q4 §3.18",
+   "source": "CAA Latvia web pages (retrieved 28 Nov 2026); EDD 2026/Q4 §3.18",
    "sections": [
     {
      "title": "Notification",
      "items": [
       {
-       "text": "In accordance with the requirements in ARA.FCL.205(c), before any skill test, assessment of competence and any Licence proficiency check for which designation procedure applies is conducted, an examiner shall send the following information listed in general section 2.4.1 and the relevant application form located here to Armands.Ozolins@caa.gov.lv including copies of examiner licence, medical certificate and examiner certificate.",
-       "ref": null
+       "text": "▸ NOTICE PERIOD (Latvia): … via e-mail: Armands.Ozolins@caa.gov.lv at least 5 business days before the desired test date.",
+       "ref": "CAA Latvia web page “Application and report forms”, page updated 30.07.2026, heading “Apply for Test”; retrieved 28 Nov 2026"
       },
       {
-       "text": "The required skill test and assessment of competence notification period is 5 days prior to the test, with the possibility to allow a change of the examiner up to 1 day before the event.",
-       "ref": null
+       "text": "▸ WHO SUBMITS (Latvia): the responsible training organization or the person who carried out the applicant's training, after successful completion the training course, recommends student for examination by submitting: … Skill Test/Examiner, Instructor Assessment of Competence Application and Examiner Designation Form",
+       "ref": "CAA Latvia web page “Application and report forms”, page updated 30.07.2026, heading “Apply for Test”, which lists Skill Test, Examiner Assessment of Competence and Instructor initial Assessment of Competence (source wording kept); retrieved 28 Nov 2026"
+      },
+      {
+       "text": "▸ APPROVAL BEFORE TEST (Latvia): Skill Test and Examiner Assessment of Competence may be performed only after approval by the CAA. The applicant does not need the CAA approval to pass the proficiency check.",
+       "ref": "CAA Latvia web page “Application and report forms”, page updated 30.07.2026, heading “General information”; retrieved 28 Nov 2026"
+      },
+      {
+       "text": "In accordance with the requirements in ARA.FCL.205(c), before any skill test, assessment of competence and any Licence proficiency check for which designation procedure applies is conducted, an examiner shall send the following information listed in general section 2.4.1 and the relevant application form located here to Armands.Ozolins@caa.gov.lv including copies of examiner licence, medical certificate and examiner certificate.",
+       "ref": "EASA EDD 2026/Q4 §3.18. Where it differs from the CAA Latvia web wording above, the CAA wording takes priority."
+      },
+      {
+       "text": "… with the possibility to allow a change of the examiner up to 1 day before the event.",
+       "ref": "EASA EDD 2026/Q4 §3.18 (cut quotation: the notice period is now given in the CAA Latvia wording; change of examiner was not mentioned on the CAA pages read)"
       },
       {
        "text": "Change of examiner shall be notified to Armands.Ozolins@caa.gov.lv including copies of examiner licence, medical certificate and examiner certificate.",
@@ -3808,8 +3844,12 @@
      "title": "Qualifications",
      "items": [
       {
-       "text": "Skill tests, assessments of competence and any Licence proficiency check for which designation procedure applies, shall be performed only after receiving permission number from the Civil aviation agency of of Latvia.",
-       "ref": null
+       "text": "▸ APPROVAL BEFORE TEST (Latvia): Skill Test and Examiner Assessment of Competence may be performed only after approval by the CAA. The applicant does not need the CAA approval to pass the proficiency check.",
+       "ref": "CAA Latvia web page “Application and report forms”, page updated 30.07.2026, heading “General information”; retrieved 28 Nov 2026"
+      },
+      {
+       "text": "Skill tests, assessments of competence … shall be performed only after receiving permission number from the Civil aviation agency of of Latvia.",
+       "ref": "EASA EDD 2026/Q4 §3.18 (cut quotation: for proficiency checks follow the CAA Latvia wording; source wording kept)"
       },
       {
        "text": "In case of change of examiner shall be used initially designated permission number.",
@@ -3841,8 +3881,12 @@
        "ref": null
       },
       {
-       "text": "Skill tests, assessments of competence and any Licence proficiency check for which designation procedure applies, shall be performed only after receiving permission number from the Civil aviation agency of of Latvia.",
-       "ref": null
+       "text": "▸ APPROVAL BEFORE TEST (Latvia): Skill Test and Examiner Assessment of Competence may be performed only after approval by the CAA. The applicant does not need the CAA approval to pass the proficiency check.",
+       "ref": "CAA Latvia web page “Application and report forms”, page updated 30.07.2026, heading “General information”; retrieved 28 Nov 2026"
+      },
+      {
+       "text": "Skill tests, assessments of competence … shall be performed only after receiving permission number from the Civil aviation agency of of Latvia.",
+       "ref": "EASA EDD 2026/Q4 §3.18 (cut quotation: for proficiency checks follow the CAA Latvia wording; source wording kept)"
       }
      ]
     },
@@ -3850,8 +3894,16 @@
      "title": "What to send afterwards",
      "items": [
       {
+       "text": "▸ REPORT, HOLDERS OF A LATVIAN CAA EXAMINER CERTIFICATE: Examiners holding Examiners Certificate issued by Latvian CAA after completion of the Skill Test or Proficiency Check shall submit without delay scanned PDF copies of the Skill test report by e-mail to: REPORTS@caa.gov.lv.",
+       "ref": "CAA Latvia web page “For examiners”, page updated 18.09.2026; retrieved 28 Nov 2026"
+      },
+      {
+       "text": "▸ LICENCE COPY (Latvia): If the Examiner has entered revalidated or renewed rating in the pilot’s licence the copies of the documents referred to above shall also be accompanied by a copy of the scanned pilot licence with the entered record.",
+       "ref": "CAA Latvia web page “For examiners”, page updated 18.09.2026; retrieved 28 Nov 2026"
+      },
+      {
        "text": "After completion of a skill test, proficiency check or assessment of competence, the examiner report shall send the following information listed in general section 2.4.2 to REPORTS@caa.gov.lv within 7 days via e-mail.",
-       "ref": null
+       "ref": "EASA EDD 2026/Q4 §3.18 (source wording kept)"
       },
       {
        "text": "The authorisation required by ARA.FCL.200(c) before endorsing a pilot licence for revalidating or renewing is hereby given.",
@@ -3871,10 +3923,6 @@
       },
       {
        "text": "If the rating is not included in the licence the Civil aviation agency of Latvia shall issue a new licence with the renewed rating.",
-       "ref": null
-      },
-      {
-       "text": "Newer source: examiners page: \"shall submit without delay scanned PDF copies of the Skill test report by e-mail to:\" REPORTS@caa.gov.lv.",
        "ref": null
       }
      ]
@@ -3911,8 +3959,12 @@
      "title": "How much notice?",
      "items": [
       {
-       "text": "The required skill test and assessment of competence notification period is 5 days prior to the test, with the possibility to allow a change of the examiner up to 1 day before the event.",
-       "ref": null
+       "text": "▸ NOTICE PERIOD (Latvia): … via e-mail: Armands.Ozolins@caa.gov.lv at least 5 business days before the desired test date.",
+       "ref": "CAA Latvia web page “Application and report forms”, page updated 30.07.2026, heading “Apply for Test”; retrieved 28 Nov 2026"
+      },
+      {
+       "text": "… with the possibility to allow a change of the examiner up to 1 day before the event.",
+       "ref": "EASA EDD 2026/Q4 §3.18 (cut quotation: the notice period is now given in the CAA Latvia wording; change of examiner was not mentioned on the CAA pages read)"
       }
      ]
     }
@@ -3929,6 +3981,18 @@
     {
      "title": "Further examiner support information can be found here.",
      "url": ""
+    },
+    {
+     "title": "CAA Latvia application and report forms page",
+     "url": "https://www.caa.gov.lv/en/application-and-report-forms"
+    },
+    {
+     "title": "CAA Latvia page for examiners",
+     "url": "https://www.caa.gov.lv/en/examiners"
+    },
+    {
+     "title": "Skill Test/Examiner, Instructor Assessment of Competence Application and Examiner Designation Form",
+     "url": "https://www.caa.gov.lv/en/media/3025/download?attachment"
     }
    ],
    "note": "AoC columns are read from a flattened PDF table. Check EDD §4.1 before relying on them."

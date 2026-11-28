@@ -103,7 +103,7 @@
   },
   "DE": {
    "lastChecked": "2026-11-28",
-   "status": "2026-11-28: changed, draft awaiting approval: LBA foreign examiner pages give testnotifications@lba.de and 'in time' (no number of days), app/EDD gives 1 week; reports table shows MPA report and notes last update 08.09.2025 (no revision number); MPA notes and notification form pages fetch permission unanswered; MPA report page rate limited, retry denied by permission check",
+   "status": "2026-11-28: changed, approved by owner and published (content 2026-11-28c): LBA foreign examiner pages added ahead of EDD wording (testnotifications@lba.de, 'in time'); MPA report, notes and web notification form still not read",
    "lastAttempt": "2026-11-28"
   },
   "GR": {
@@ -128,7 +128,7 @@
   },
   "LV": {
    "lastChecked": "2026-11-28",
-   "status": "2026-11-28: changed, draft awaiting approval: CAA forms page (updated 30.07.2026) gives at least 5 business days (app/EDD: 5 days) and approval before skill test and examiner AoC; examiners page (updated 18.09.2026) agrees with app on reports; report form PDFs not opened",
+   "status": "2026-11-28: changed, approved by owner and published (content 2026-11-28c): CAA Latvia wording takes priority (5 business days, approval before skill test and examiner AoC, report rule for Latvian certificate holders); report and designation forms not opened",
    "lastAttempt": "2026-11-28"
   },
   "LT": {
