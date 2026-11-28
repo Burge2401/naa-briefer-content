@@ -49,7 +49,7 @@ Source: [CAA Latvia, Application and report forms](https://www.caa.gov.lv/en/app
 | EASA Examiner Differences Document | Unchanged: [PDF](https://www.easa.europa.eu/en/downloads/16659/en) reads Version 2026/Q4, 01.10.2026. |
 | UK CAA Standards Document 24(A) | Unchanged: [CAA page](https://www.caa.co.uk/data-and-publications/publications/documents/content/standards-document-24-a/) shows Current, Version 6, 28-Nov-2024. |
 | FAA ATP ACS | Unchanged: [FAA ACS page](https://www.faa.gov/training_testing/testing/acs) lists FAA-S-ACS-11A, effective May 31, 2024. |
-| 14 CFR 61.43 | **NOT CHECKED** on the section page (permission unanswered). Three govinfo documents read ([2026-23525](https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23525.pdf), partly; [2026-22310](https://www.govinfo.gov/content/pkg/FR-2026-11-02/pdf/2026-22310.pdf); [2026-22809](https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22809.pdf)) show no Part 61 amendment. This is not a full search of new rules. |
+| 14 CFR 61.43 | Section text unchanged. eCFR copy supplied later on 28 November (up to date as of 11/25/2026) compared with the 10/29/2026 copy: paragraphs (a)-(g), source note and Amdt 61-157 note are the same. The Part 61 authority citation is longer in the newer copy (adds Pub. L. 114-190, 115-254 and 118-63 provisions); the amending document was not identified. The app does not quote that citation. |
 | 14 CFR 121.424/.427/.433/.440/.441, Part 142 | Consolidated text blocked (known). federalregister.gov also refused, as logged on 26 November. |
 | EASA Part-FCL, AMC/GM, FEM compare | Not due (Mondays). |
 
