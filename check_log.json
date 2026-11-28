@@ -48,7 +48,7 @@
   },
   "IT": {
    "lastChecked": "2026-11-26",
-   "status": "2026-11-26: changed, draft awaiting approval: ENAC EDD web page (dated 01/09/2025) gives personale.volo@enac.gov.it for initial examiner AoC applications, app (EDD 2026/Q4) gives istruttoriesaminatori@enac.gov.it; portal, fallback email, 1/7/15 day periods and RPT 01 Ed. 2025.01 agree; examiners forms page, CKL 01 and notification template edition not checked",
+   "status": "2026-11-28: changed, approved by owner and published (content 2026-11-28e): ENAC designation address placed ahead of EDD address. Earlier unread items remain unchecked.",
    "lastAttempt": "2026-11-26"
   },
   "DK": {
@@ -83,7 +83,7 @@
   },
   "CZ": {
    "lastChecked": "2026-11-27",
-   "status": "2026-11-27: changed, draft awaiting approval: CAA examiners page (published 21 Oct 2026) gives podatelna@caa.gov.cz for temporary permission copies and contact, app/EDD gives podatelna@caa.cz for notification; Czech-language page fetch permission unanswered, portal manual not read",
+   "status": "2026-11-28: changed, approved by owner and published (content 2026-11-28e): temporary permission copy wording added; notification address unchanged, gov.cz domain still not confirmed for test notification. Earlier unread items remain unchecked.",
    "lastAttempt": "2026-11-27"
   },
   "EE": {
@@ -93,12 +93,12 @@
   },
   "FI": {
    "lastChecked": "2026-11-27",
-   "status": "2026-11-27: changed, draft awaiting approval: designation page (24 Feb 2026) shows e-form LU3174x only, not kirjaamo@traficom.fi, with 14 day processing and test after confirmation; designation PDF and notices page fetch permission unanswered",
+   "status": "2026-11-28: changed, approved by owner and published (content 2026-11-28e): designation page wording placed first, kirjaamo address removed as not on that page. Earlier unread items remain unchecked.",
    "lastAttempt": "2026-11-27"
   },
   "FR": {
    "lastChecked": "2026-11-27",
-   "status": "2026-11-27: changed, draft awaiting approval: Procedures for Examiners v2.0 (01/10/2026) 5 day report deadline and change of examiner rules not in app; notice periods and address agree; non-French examiner list dated 26/11/2026; Revision 13 TRE guide link not checked",
+   "status": "2026-11-28: changed, approved by owner and published (content 2026-11-28e): report deadline, format and change-of-test wording and links added. Earlier unread items remain unchecked.",
    "lastAttempt": "2026-11-27"
   },
   "DE": {

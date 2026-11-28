@@ -1,11 +1,11 @@
 {
  "schemaVersion": 1,
- "contentVersion": "2026-11-28c",
+ "contentVersion": "2026-11-28e",
  "checkedDate": "2026-11-28",
  "eddIssue": "2026/Q4",
  "atEasa": "**No autothrottle rule.** The raw-data ILS is “manually, without flight director” only; brief your policy and note it on the form. Manual flight (3.1): no autopilot, no autothrust. EASA FEM Module 5.1 (V2021.1) gives no autothrust rule for items 3.8.3.1, 3.8.3.4 or 4.4, and does not say what to do if autothrust engages in a go-around.",
  "intro": "Pick the licence-issuing NAA of each candidate.",
- "footnote": "Sources: EASA EDD 2026/Q4 (1 Oct 2026); UK CAA Standards Document 24(A) v6; ENAC, IAA, Trafikstyrelsen, LBA and CAA Latvia pages; EASA Part-FCL Subpart K (Oct 2026); FEM Module 5.1. The EDD is revised quarterly; the next issue is due around January. Direct form links for UK CAA, ENAC, IAA and Trafikstyrelsen updated 10 Nov 2026.",
+ "footnote": "Sources: EASA EDD 2026/Q4 (1 Oct 2026); UK CAA Standards Document 24(A) v6; ENAC, IAA, Trafikstyrelsen, LBA, CAA Latvia, DGAC, Traficom and CAA CZ pages; EASA Part-FCL Subpart K (Oct 2026); FEM Module 5.1. The EDD is revised quarterly; the next issue is due around January. Direct form links for UK CAA, ENAC, IAA and Trafikstyrelsen updated 10 Nov 2026.",
  "order": [
   "UK",
   "US",
@@ -1078,7 +1078,7 @@
   },
   "CZ": {
    "name": "Czech Republic",
-   "source": "EDD 2026/Q4 §3.6",
+   "source": "CAA CZ web page (retrieved 27 Nov 2026); EDD 2026/Q4 §3.6",
    "sections": [
     {
      "title": "Notification",
@@ -1102,6 +1102,10 @@
       {
        "text": "Newer source: examiner page: tests are notified and recorded via the portal http://portal.caa.gov.cz/login (manual CAA_Examinatori-odesilani-zkousek-zmeny_2026-09-10.pdf, not yet checked). The EDD text above names podatelna@caa.cz.",
        "ref": null
+      },
+      {
+       "text": "NOT CHECKED: whether podatelna@caa.gov.cz also applies to skill test notification. The CAA CZ English examiners page (published 21 Oct 2026) gives it for temporary permission copies and as its contact address, and does not say where skill tests are notified. The EDD 2026/Q4 wording in this app gives podatelna@caa.cz. The Czech-language page was not read. Confirm before sending.",
+       "ref": "Currency check, 27 Nov 2026 (not a quotation)"
       }
      ]
     },
@@ -1180,6 +1184,10 @@
       {
        "text": "After completion of a skill test, proficiency check or assessment of competence, the examiner report shall include the information listed in general section 2.4.2.",
        "ref": null
+      },
+      {
+       "text": "▸ TEMPORARY PERMISSION COPY (Czech Republic): … shall be sent together with a copy of the Application and Report Form …",
+       "ref": "CAA CZ web page “Examiners” (English), section “Issuance of Temporary Permission to Exercise Privileges in accordance with ARA.FCL.215(d)”, published 21 Oct 2026 (cut quotation; the page gives the e-mail address podatelna@caa.gov.cz for this copy); retrieved 27 Nov 2026"
       }
      ]
     }
@@ -1229,6 +1237,10 @@
     {
      "title": "ÚCL Příručka examinátora TRE(A), SFE(A), změna č. 1 (01.11.2016)",
      "url": "https://www.caa.cz/wp-content/uploads/2019/07/Manual-for-examiner-1.pdf"
+    },
+    {
+     "title": "CAA CZ Examiners page (English)",
+     "url": "https://www.caa.gov.cz/en/aviation-personnel/examiners/"
     }
    ],
    "note": null
@@ -1514,21 +1526,29 @@
   },
   "FI": {
    "name": "Finland",
-   "source": "EDD 2026/Q4 §3.9",
+   "source": "Traficom web pages (retrieved 27 Nov 2026); EDD 2026/Q4 §3.9",
    "sections": [
     {
      "title": "Notification",
      "items": [
+      {
+       "text": "▸ DESIGNATION (Finland): A designation shall be applied for: … MPL skill test … ATP skill test",
+       "ref": "Traficom web page “Apply for the designation of a flight examiner”, page last updated 24 Feb 2026 (quoted passages, “…” = cut); retrieved 27 Nov 2026"
+      },
+      {
+       "text": "▸ DESIGNATION TIMING (Finland): Traficom will process designations within 14 days (for general aviation within 7 days) … Confirmation for the designation will be sent by email to the notifier … The skill test or assessment of competence can be conducted immediately after the confirmation",
+       "ref": "Traficom web page “Apply for the designation of a flight examiner”, page last updated 24 Feb 2026 (quoted passages, “…” = cut); retrieved 27 Nov 2026"
+      },
+      {
+       "text": "DESIGNATION E-FORM (Finland): the Traficom designation page gives the e-form https://asiointi.trafi.fi/lomake?id=LU3174x and no e-mail address. kirjaamo@traficom.fi, listed earlier in this app, was not on that page; the Traficom designation PDF was not read. The EDD wording in this app names lentokoe@traficom.fi.",
+       "ref": "Summary of the Traficom web page “Apply for the designation of a flight examiner”, page last updated 24 Feb 2026, retrieved 27 Nov 2026 (not a quotation)"
+      },
       {
        "text": "In accordance with the requirements in ARA.FCL.205(c), before CPL, IR and ATPL skill tests or instructor and examiner assessment of competenceis conducted an examiner shall send the following information located, in general section 2.4.1, to lentokoe@traficom.fi.",
        "ref": null
       },
       {
        "text": "The required skill test and assessment of competence notification period is 14 days prior to the skill test or assessment of competence. A last minute change of examiner can be approved at the discretion of the Competent Authority.",
-       "ref": null
-      },
-      {
-       "text": "Newer source: designation page: notify by e-form https://asiointi.trafi.fi/lomake?id=LU3174x or kirjaamo@traficom.fi. The EDD text above names lentokoe@traficom.fi.",
        "ref": null
       }
      ]
@@ -1629,6 +1649,18 @@
      "title": "How much notice?",
      "items": [
       {
+       "text": "▸ DESIGNATION (Finland): A designation shall be applied for: … MPL skill test … ATP skill test",
+       "ref": "Traficom web page “Apply for the designation of a flight examiner”, page last updated 24 Feb 2026 (quoted passages, “…” = cut); retrieved 27 Nov 2026"
+      },
+      {
+       "text": "▸ DESIGNATION TIMING (Finland): Traficom will process designations within 14 days (for general aviation within 7 days) … Confirmation for the designation will be sent by email to the notifier … The skill test or assessment of competence can be conducted immediately after the confirmation",
+       "ref": "Traficom web page “Apply for the designation of a flight examiner”, page last updated 24 Feb 2026 (quoted passages, “…” = cut); retrieved 27 Nov 2026"
+      },
+      {
+       "text": "DESIGNATION E-FORM (Finland): the Traficom designation page gives the e-form https://asiointi.trafi.fi/lomake?id=LU3174x and no e-mail address. kirjaamo@traficom.fi, listed earlier in this app, was not on that page; the Traficom designation PDF was not read. The EDD wording in this app names lentokoe@traficom.fi.",
+       "ref": "Summary of the Traficom web page “Apply for the designation of a flight examiner”, page last updated 24 Feb 2026, retrieved 27 Nov 2026 (not a quotation)"
+      },
+      {
        "text": "before CPL, IR and ATPL skill tests or instructor and examiner assessment of competenceis conducted an examiner shall send the following information located, in general section 2.4.1, to lentokoe@traficom.fi.",
        "ref": null
       },
@@ -1643,13 +1675,17 @@
     {
      "title": "The forms can be obtained here.",
      "url": "https://www.traficom.fi/en/transport/aviation/flight-and-language-examiners"
+    },
+    {
+     "title": "Traficom flight examiners and language examiners page (list of report forms)",
+     "url": "https://traficom.fi/en/aviation-licences/flight-and-language-examiners/flight-and-language-examiners"
     }
    ],
    "note": null
   },
   "FR": {
    "name": "France",
-   "source": "EDD 2026/Q4 §3.10",
+   "source": "DGAC Procedures for Examiners v2.0 (retrieved 27 Nov 2026); EDD 2026/Q4 §3.10",
    "sections": [
     {
      "title": "Notification",
@@ -1685,6 +1721,14 @@
       {
        "text": "Test notification is not requested anymore for licence proficiency check.",
        "ref": null
+      },
+      {
+       "text": "▸ CHANGE OF EXAMINER (France, CPL, IR and ATPL skill tests and initial instructor assessments): … be precisely notified, coordinated and agreed to by DGAC or the test will be invalidated.",
+       "ref": "DGAC/DSAC “Procedures for Examiners”, Version 2.0 of 01/10/2026 (English), 3.3.1, for tests out of a French-approved ATO (cut quotation: the sentence concerns any change in the organisation of the test, for example examiner, date, time or place); retrieved 27 Nov 2026"
+      },
+      {
+       "text": "▸ CHANGE OF EXAMINER (France, class and type rating skill tests): … be precisely coordinated and agreed by DGAC or the test will be invalidated.",
+       "ref": "DGAC/DSAC “Procedures for Examiners”, Version 2.0 of 01/10/2026 (English), 3.3.2, for tests out of a French-approved ATO (cut quotation: the sentence concerns any change in the organisation of the test, for example examiner, date, time or place); retrieved 27 Nov 2026"
       }
      ]
     },
@@ -1873,6 +1917,14 @@
       {
        "text": "Concerning ATPL, CPL and IR skill-tests, in addition to the forwarded copy of the report sent by the examiner at dsac-test-notification-bf@aviation-civile.gouv.fr, it is the candidate’s responsibility to send the original skill test/proficiency check record form, a copy of the examiner’s licence and a copy of the examiner’s certificate to the relevant administrators in the examination office.",
        "ref": null
+      },
+      {
+       "text": "▸ REPORT DEADLINE (France): The email must be send no later than 5 full days after the event",
+       "ref": "DGAC/DSAC “Procedures for Examiners”, Version 2.0 of 01/10/2026 (English), Annex 1, 6.1.4 “Forwarding test/check forms to DGAC” (source wording kept, including “send”); retrieved 27 Nov 2026"
+      },
+      {
+       "text": "▸ REPORT ADDRESS AND FORMAT (France): To dsac-test-notification-bf@aviation-civile.gouv.fr … The entire report form must be attached (exclusively PDF)",
+       "ref": "DGAC/DSAC “Procedures for Examiners”, Version 2.0 of 01/10/2026 (English), Annex 1, 6.1.4 (quoted passages, “…” = cut); retrieved 27 Nov 2026"
       }
      ]
     }
@@ -1921,11 +1973,11 @@
     },
     {
      "title": "DGAC’s Non-French Examiners Webpage",
-     "url": ""
+     "url": "https://www.ecologie.gouv.fr/en/public-policies/non-french-part-fcl-examiners"
     },
     {
      "title": "Procedures for examiners located here",
-     "url": ""
+     "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/procedures_for_examiners.pdf"
     },
     {
      "title": "DSAC TRE/SFE guide for multi-pilot aeroplanes, Revision 13 (March 2025) – PDF, French language only",
@@ -3557,7 +3609,7 @@
   },
   "IT": {
    "name": "ENAC (Italy)",
-   "source": "EDD 2026/Q4 §3.16",
+   "source": "ENAC web page (retrieved 26 Nov 2026); EDD 2026/Q4 §3.16",
    "sections": [
     {
      "title": "Notification",
@@ -3638,8 +3690,12 @@
        "ref": null
       },
       {
+       "text": "▸ DESIGNATION REQUEST (Italy, initial examiner assessment of competence): At least 15 days before the intended exam, an application for an Individual Authorisation … to personale.volo@enac.gov.it",
+       "ref": "ENAC web page “EDD: Examiner Differences Document”, section 3, initial issue of an examiner certificate, page dated 01/09/2025 (quoted passages, “…” = cut); retrieved 26 Nov 2026"
+      },
+      {
        "text": "Request individual Designation to istruttoriesaminatori@enac.gov.it (at least 15 days for  the designation)",
-       "ref": null
+       "ref": "EASA EDD 2026/Q4 §3.16. For this address the ENAC web page wording takes priority (that page is dated 01/09/2025, before this EDD issue)."
       }
      ]
     },
@@ -3714,8 +3770,12 @@
        "ref": null
       },
       {
+       "text": "▸ DESIGNATION REQUEST (Italy, initial examiner assessment of competence): At least 15 days before the intended exam, an application for an Individual Authorisation … to personale.volo@enac.gov.it",
+       "ref": "ENAC web page “EDD: Examiner Differences Document”, section 3, initial issue of an examiner certificate, page dated 01/09/2025 (quoted passages, “…” = cut); retrieved 26 Nov 2026"
+      },
+      {
        "text": "Request individual Designation to istruttoriesaminatori@enac.gov.it (at least 15 days for  the designation)",
-       "ref": null
+       "ref": "EASA EDD 2026/Q4 §3.16. For this address the ENAC web page wording takes priority (that page is dated 01/09/2025, before this EDD issue)."
       }
      ]
     },

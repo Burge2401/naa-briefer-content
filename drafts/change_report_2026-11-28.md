@@ -1,5 +1,7 @@
 # NAA Checker Brief: change report, 28 November 2026
 
+**Second update, 28 November:** the owner approved the rest. Italy, France, Finland and Czech Republic are **live** in `content.json` version 2026-11-28e. **No draft is awaiting approval**; earlier draft files are history only.
+
 **Update, 28 November:** the owner approved Germany and Latvia (NAA wording takes priority). They are **live** in `content.json` version 2026-11-28c, which supersedes sections 1 and 2 below where they say the live app is unchanged. The draft is now version 2026-11-28d and holds only Italy, France, Finland and Czech Republic.
 
 Draft file: `drafts/content_DRAFT_2026-11-28.json` (version 2026-11-28b). **Not live.** The live `content.json` has only the new date stamp (2026-11-28a).
